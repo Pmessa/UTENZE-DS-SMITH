@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>UTENZE</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Ricerca utenze elettriche</h1>
+    <p>Seleziona o scrivi i dati per trovare l'utenza desiderata.</p>
+  </header>
+
+  <main>
+    <section class="filtro">
+      <div class="campo">
+        <label for="descrizione">Descrizione utenza</label>
+        <input type="text" id="descrizione" placeholder="Es. POMPA, TERMOCONVETTORE, CARROPONTE...">
+      </div>
+
+      <div class="campo">
+        <label for="cabina">Cabina (CAB.)</label>
+        <select id="cabina">
+          <option value="">Tutte</option>
+          <option value="CAB.04">CAB.04</option>
+          <option value="CAB.05">CAB.05</option>
+          <option value="CAB.06">CAB.06</option>
+          <option value="CAB.07">CAB.07</option>
+          <option value="CAB.13">CAB.13</option>
+          <option value="CAB.14">CAB.14</option>
+        </select>
+      </div>
+
+      <div class="campo">
+        <label for="quadro">Quadro (Q.)</label>
+        <input type="text" id="quadro" placeholder="Es. Q.9, Q.MURO, Q.PCC...">
+      </div>
+
+      <div class="campo">
+        <label for="sezione">Sezione (S.)</label>
+        <input type="text" id="sezione" placeholder="Es. S.4, S.7, S.M...">
+      </div>
+
+      <div class="campo">
+        <label for="utenza">Utenza (UT.)</label>
+        <input type="text" id="utenza" placeholder="Es. UT.2, UT.104, UT.QF1...">
+      </div>
+
+      <button id="btnCerca">Cerca utenze</button>
+      <button id="btnPulisci" class="secondario">Pulisci filtri</button>
+    </section>
+
+    <section id="risultati">
+      <h2>Risultati</h2>
+      <div id="listaRisultati" class="lista-risultati">
+        <p class="vuoto">Nessuna ricerca effettuata. Inserisci dei criteri e premi "Cerca utenze".</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <small>Strumento interno per la ricerca delle utenze elettriche di impianto.</small>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

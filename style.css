@@ -1,0 +1,211 @@
+/* ============================
+   STILE GENERALE – DS SMITH
+   ============================ */
+
+* {
+  box-sizing: border-box;
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  background: #F2F2F2; /* Light grey DS Smith */
+  color: #4D4D4F;      /* Dark grey DS Smith */
+}
+
+/* ============================
+   HEADER
+   ============================ */
+
+header {
+  background: #EA7600; /* Orange DS Smith */
+  color: #FFFFFF;
+  padding: 1.8rem 2rem;
+  border-bottom: 4px solid #4D4D4F;
+}
+
+header h1 {
+  margin: 0 0 0.3rem 0;
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+
+header p {
+  margin: 0;
+  font-size: 1rem;
+  opacity: 0.95;
+}
+
+/* ============================
+   CONTENUTO PRINCIPALE
+   ============================ */
+
+main {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* ============================
+   SEZIONE FILTRI
+   ============================ */
+
+.filtro {
+  background: #FFFFFF;
+  border-radius: 0.75rem;
+  padding: 1.5rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.2rem;
+}
+
+.campo {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+label {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #4D4D4F;
+}
+
+input,
+select {
+  padding: 0.55rem 0.7rem;
+  border-radius: 0.5rem;
+  border: 1px solid #CFCFCF;
+  background: #FFFFFF;
+  font-size: 0.95rem;
+}
+
+input:focus,
+select:focus {
+  outline: none;
+  border-color: #EA7600;
+  box-shadow: 0 0 0 2px rgba(234,118,0,0.25);
+}
+
+/* ============================
+   BOTTONI
+   ============================ */
+
+button {
+  padding: 0.65rem 1rem;
+  border-radius: 0.5rem;
+  border: none;
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 600;
+  transition: 0.15s ease;
+}
+
+#btnCerca {
+  background: #EA7600;
+  color: #FFFFFF;
+}
+
+#btnCerca:hover {
+  background: #cf6600;
+}
+
+#btnPulisci {
+  background: #4D4D4F;
+  color: #FFFFFF;
+}
+
+#btnPulisci:hover {
+  background: #3a3a3c;
+}
+
+/* ============================
+   RISULTATI
+   ============================ */
+
+#risultati {
+  margin-top: 2rem;
+}
+
+#risultati h2 {
+  margin: 0 0 1rem 0;
+  font-size: 1.4rem;
+  color: #4D4D4F;
+}
+
+.lista-risultati {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.2rem;
+}
+
+/* ============================
+   CARD UTENZA
+   ============================ */
+
+.card-utenza {
+  background: #FFFFFF;
+  border-radius: 0.75rem;
+  padding: 1rem 1.2rem;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+  border-left: 6px solid #EA7600;
+}
+
+.card-utenza h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.05rem;
+  color: #000000;
+}
+
+.card-utenza .tag {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+  background: #EA7600;
+  color: #FFFFFF;
+  margin-bottom: 0.5rem;
+}
+
+.card-utenza dl {
+  margin: 0;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  column-gap: 0.6rem;
+  row-gap: 0.25rem;
+  font-size: 0.9rem;
+}
+
+.card-utenza dt {
+  font-weight: 600;
+  color: #4D4D4F;
+}
+
+.card-utenza dd {
+  margin: 0;
+  color: #000000;
+}
+
+/* ============================
+   TESTI DI STATO
+   ============================ */
+
+.vuoto {
+  font-size: 0.95rem;
+  color: #4D4D4F;
+  opacity: 0.7;
+}
+
+/* ============================
+   FOOTER
+   ============================ */
+
+footer {
+  padding: 1rem 2rem;
+  font-size: 0.8rem;
+  color: #4D4D4F;
+  text-align: center;
+  margin-top: 2rem;
+}
