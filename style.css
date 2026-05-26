@@ -13,10 +13,19 @@ body {
   padding: 20px;
 }
 
+/* Pantalla completa en móvil */
+header,
+main,
+footer {
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  padding: 0 10px;
+}
+
 header {
-  max-width: 900px;
-  margin: 0 auto 20px auto;
   text-align: center;
+  margin-bottom: 20px;
 }
 
 header h1 {
@@ -28,12 +37,6 @@ header h1 {
 header p {
   color: #003A70;
   opacity: 0.8;
-}
-
-/* Contenedor principal */
-main {
-  max-width: 900px;
-  margin: 0 auto;
 }
 
 /* Bloque de filtros */
@@ -65,7 +68,7 @@ main {
 .campo select {
   padding: 8px 10px;
   border-radius: 4px;
-  border: 1px solid #C7D1DA; /* Gris corporativo */
+  border: 1px solid #C7D1DA;
   font-size: 0.95rem;
   background: #FAFAFA;
   transition: border-color 0.15s, box-shadow 0.15s;
@@ -178,13 +181,13 @@ button:active {
 
 /* Footer */
 footer {
-  max-width: 900px;
-  margin: 16px auto 0 auto;
   text-align: center;
   color: #003A70;
   opacity: 0.7;
   font-size: 0.8rem;
+  margin-top: 16px;
 }
+
 /* 📱 MODO CELULAR — Mejor legibilidad */
 @media (max-width: 600px) {
 
@@ -237,5 +240,64 @@ footer {
   footer {
     font-size: 1rem;
     margin-top: 20px;
+  }
+}
+
+/* 📱 Optimización especial para Samsung S25 y móviles grandes */
+@media (max-width: 850px) {
+
+  body {
+    padding: 10px;
+    font-size: 1.25rem;
+  }
+
+  header h1 {
+    font-size: 2.2rem;
+  }
+
+  header p {
+    font-size: 1.25rem;
+  }
+
+  .filtro {
+    grid-template-columns: 1fr;
+    padding: 22px;
+    gap: 20px;
+  }
+
+  .campo label {
+    font-size: 1.25rem;
+  }
+
+  .campo input,
+  .campo select {
+    font-size: 1.25rem;
+    padding: 16px;
+  }
+
+  button {
+    font-size: 1.3rem;
+    padding: 16px;
+    width: 100%;
+  }
+
+  #risultati h2 {
+    font-size: 1.6rem;
+  }
+
+  .riga-utenza {
+    font-size: 1.25rem;
+    padding: 16px;
+    border-radius: 8px;
+    margin-bottom: 14px;
+  }
+
+  .riga-utenza span[data-label]::before {
+    font-size: 1.2rem;
+  }
+
+  footer {
+    font-size: 1.1rem;
+    margin-top: 24px;
   }
 }
