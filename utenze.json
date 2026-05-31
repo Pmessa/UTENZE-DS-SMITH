@@ -1,12 +1,5 @@
 [
     {
-        "descrizione": "SPAPPOLATORE 2 FINE MACCHINA (SOFT STARTER)",
-        "cabina": "CAB.04",
-        "quadro": "Q.9 LT.A",
-        "sezione": "S.2",
-        "utenza": "UT.2"
-    },
-    {
         "descrizione": "POMPA SPAPPOLATORE FINE MACCHINA",
         "cabina": "CAB.04",
         "quadro": "Q.9 LT.A",
