@@ -1,26 +1,5 @@
 [
     {
-        "descrizione": "POMPA SPAPPOLATORE FINE MACCHINA",
-        "cabina": "CAB.04",
-        "quadro": "Q.9 LT.A",
-        "sezione": "S.3",
-        "utenza": "UT.3"
-    },
-    {
-        "descrizione": "RESISTENZE SCALDABAGNO ALIMENTAZIONE LIGNINA 1",
-        "cabina": "CAB.04",
-        "quadro": "Q.9 LT.A",
-        "sezione": "S.4",
-        "utenza": "UT.6"
-    },
-    {
-        "descrizione": "TERMOCONVETTORE 5",
-        "cabina": "CAB.04",
-        "quadro": "Q.9 LT.A",
-        "sezione": "S.4",
-        "utenza": "UT.12"
-    },
-    {
         "descrizione": "ALIMENTAZIONE QUADRO 1 BOBINOVIA MAG.LATERALE C1",
         "cabina": "CAB.04",
         "quadro": "Q.9 LT.A",
@@ -33,13 +12,6 @@
         "quadro": "Q.9 LT.A",
         "sezione": "S.4",
         "utenza": "UT.103"
-    },
-    {
-        "descrizione": "ALIMENTAZIONE QUADRO CENTRALE KUSTER",
-        "cabina": "CAB.04",
-        "quadro": "Q.9 LT.A",
-        "sezione": "S.4",
-        "utenza": "UT.109"
     },
     {
         "descrizione": "ALIMENTAZIONE CARROPONTE DEPOSITO FELTRI EX",
@@ -61,69 +33,6 @@
         "quadro": "Q.9 LT.A",
         "sezione": "S.5",
         "utenza": "UT.106"
-    },
-    {
-        "descrizione": "ALIMENTAZIONE QUADRO AMIDO SIZE PRESS",
-        "cabina": "CAB.04",
-        "quadro": "Q.9 LT.A",
-        "sezione": "S.5",
-        "utenza": "UT.107"
-    },
-    {
-        "descrizione": "ALIMENTAZIONE PULPITO POPE",
-        "cabina": "CAB.04",
-        "quadro": "Q.9 LT.A",
-        "sezione": "S.5",
-        "utenza": "UT.110"
-    },
-    {
-        "descrizione": "RESISTENZE CENTRALINA OLIO POPE",
-        "cabina": "CAB.04",
-        "quadro": "Q.9 LT.A",
-        "sezione": "S.6",
-        "utenza": "UT.35"
-    },
-    {
-        "descrizione": "POMPA RICIRCOLO CENTRALINA OLIO POPE",
-        "cabina": "CAB.05",
-        "quadro": "Q.9 LT.A",
-        "sezione": "S.6",
-        "utenza": "UT.33"
-    },
-    {
-        "descrizione": "POMPA 1 CENTRALINA OLIO POPE",
-        "cabina": "CAB.04",
-        "quadro": "Q.9 LT.A",
-        "sezione": "S.6",
-        "utenza": "UT.31"
-    },
-    {
-        "descrizione": "POMPA 2 CENTRALINA OLIO POPE",
-        "cabina": "CAB.04",
-        "quadro": "Q.9 LT.A",
-        "sezione": "S.6",
-        "utenza": "UT.32"
-    },
-    {
-        "descrizione": "VENTILATORE RAFFREDDAMENTO CENTRALINA OLIO POPE",
-        "cabina": "CAB.04",
-        "quadro": "Q.9 LT.A",
-        "sezione": "S.7",
-        "utenza": "UT.34"
-    },
-    {
-        "descrizione": "RASCHIA CILINDRO 69",
-        "cabina": "CAB.04",
-        "quadro": "Q.9 LT.A",
-        "sezione": "S.7",
-        "utenza": "UT.13"
-    },
-    {
-        "descrizione": "FORMACODA SECCHERIA",
-        "cabina": "CAB.04",
-        "quadro": "Q.9 LT.A",
-        "sezione": "S.7",
-        "utenza": "UT.14"
     },
     {
         "descrizione": "ALIMENTAZIONE QUADRO SERVIZI CABINA 13 C2",
