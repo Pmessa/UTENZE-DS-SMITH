@@ -301,3 +301,8 @@ footer {
     margin-top: 24px;
   }
 }
+@media (max-width: 700px) {
+  .riga-utenza-header {
+    display: none !important;
+  }
+}
