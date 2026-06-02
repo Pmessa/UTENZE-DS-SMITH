@@ -27,24 +27,40 @@ const listaRisultati = document.getElementById("listaRisultati");
 
 
 // ===============================
-//  HEADER RISULTATI
+//  FUNZIONE: CREA UNA CARTA UTENZA
 // ===============================
-function renderHeader() {
-  const headerRow = document.createElement("div");
-  headerRow.className = "riga-utenza riga-utenza-header";
-  headerRow.innerHTML = `
-    <span>Descrizione utenza</span>
-    <span>Cabina</span>
-    <span>Quadro</span>
-    <span>Sez.</span>
-    <span>UT.</span>
+function creaCartaUtenza(u, index) {
+  const carta = document.createElement("div");
+  carta.className = "carta-utenza";
+
+  carta.innerHTML = `
+    <div class="carta-header">
+      <div><strong>Cabina:</strong> ${u.cabina}</div>
+      <div><strong>Quadro:</strong> ${u.quadro}</div>
+      <div><strong>Utenza:</strong> ${u.utenza}</div>
+      <div><strong>Scomparto:</strong> ${u.sezione}</div>
+    </div>
+
+    <div class="carta-extra" id="extra-${index}">
+      <div><strong>TAG:</strong> ${u.tag}</div>
+      <div><strong>Sede tecnica UT:</strong> ${u.sede_tecnica_ut}</div>
+      <div><strong>Descrizione:</strong> ${u.descrizione}</div>
+      <div><strong>Sezionatore B.M.:</strong> ${u.sezionatore_bm}</div>
+      <div><strong>Sede tecnica BM:</strong> ${u.sede_tecnica_bm}</div>
+      <div><strong>ITLU:</strong> ${u.itlu}</div>
+    </div>
+
+    <button class="btn-dettagli" onclick="toggleDettagli(${index})">
+      Dettagli tecnici
+    </button>
   `;
-  return headerRow;
+
+  return carta;
 }
 
 
 // ===============================
-//  RENDER RISULTATI
+//  FUNZIONE: MOSTRA RISULTATI
 // ===============================
 function renderRisultati(dati) {
   listaRisultati.innerHTML = "";
@@ -54,20 +70,18 @@ function renderRisultati(dati) {
     return;
   }
 
-  listaRisultati.appendChild(renderHeader());
-
-  dati.forEach(u => {
-    const row = document.createElement("div");
-    row.className = "riga-utenza";
-    row.innerHTML = `
-      <span data-label="Descrizione">${u.descrizione}</span>
-      <span data-label="Cabina">${u.cabina}</span>
-      <span data-label="Quadro">${u.quadro}</span>
-      <span data-label="Sezione">${u.sezione}</span>
-      <span data-label="Utenza">${u.utenza}</span>
-    `;
-    listaRisultati.appendChild(row);
+  dati.forEach((u, i) => {
+    listaRisultati.appendChild(creaCartaUtenza(u, i));
   });
+}
+
+
+// ===============================
+//  FUNZIONE: APRI/CHIUDI DETTAGLI
+// ===============================
+function toggleDettagli(id) {
+  const box = document.getElementById("extra-" + id);
+  box.style.display = box.style.display === "block" ? "none" : "block";
 }
 
 

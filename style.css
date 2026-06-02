@@ -142,53 +142,75 @@ button:active {
   padding: 6px 0;
 }
 
-/* Tarjeta de resultado */
-.riga-utenza {
+/* ------------------------------------------------------ */
+/* 🔶 NUEVO SISTEMA DE TARJETAS (PC completo / móvil compacto) */
+/* ------------------------------------------------------ */
+
+.carta-utenza {
+  background: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 15px;
+  margin-bottom: 15px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  font-size: 15px;
+  color: #003A70;
+}
+
+.carta-header {
   display: grid;
-  grid-template-columns: 2.5fr 0.9fr 0.9fr 0.6fr 0.7fr;
-  gap: 8px;
-  padding: 8px 0;
-  border-bottom: 1px solid #E0E6EB;
-  font-size: 0.9rem;
-  color: #003A70;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 6px;
+  margin-bottom: 10px;
 }
 
-.riga-utenza:nth-child(odd) {
-  background: #F7F9FB;
+.carta-header div strong {
+  color: #d35400; /* naranja DS Smith */
 }
 
-.riga-utenza-header {
-  font-weight: 700;
-  color: #003A70;
-  border-bottom: 2px solid #003A70;
-  padding-bottom: 6px;
-  margin-bottom: 4px;
+/* Datos extra (ocultos en móvil) */
+.carta-extra {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #eee;
+  display: none;
 }
 
-/* Etiquetas de columnas en móvil */
-@media (max-width: 700px) {
-  .riga-utenza,
-  .riga-utenza-header {
-    grid-template-columns: 1fr;
+.carta-extra div strong {
+  color: #444;
+}
+
+/* Botón detalles */
+.btn-dettagli {
+  margin-top: 10px;
+  width: 100%;
+  padding: 8px;
+  background: #d35400;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.btn-dettagli:hover {
+  background: #b84300;
+}
+
+/* --- VISTA PC --- */
+@media (min-width: 800px) {
+  .carta-extra {
+    display: block !important;
   }
-
-  .riga-utenza span[data-label]::before {
-    content: attr(data-label) ": ";
-    font-weight: 600;
-    color: #003A70;
+  .btn-dettagli {
+    display: none;
   }
 }
 
-/* Footer */
-footer {
-  text-align: center;
-  color: #003A70;
-  opacity: 0.7;
-  font-size: 0.8rem;
-  margin-top: 16px;
-}
-
+/* ------------------------------------------------------ */
 /* 📱 MODO CELULAR — Mejor legibilidad */
+/* ------------------------------------------------------ */
+
 @media (max-width: 600px) {
 
   body {
@@ -226,15 +248,6 @@ footer {
 
   #risultati h2 {
     font-size: 1.4rem;
-  }
-
-  .riga-utenza {
-    font-size: 1.1rem;
-    padding: 12px 0;
-  }
-
-  .riga-utenza span[data-label]::before {
-    font-size: 1.05rem;
   }
 
   footer {
@@ -285,24 +298,8 @@ footer {
     font-size: 1.6rem;
   }
 
-  .riga-utenza {
-    font-size: 1.25rem;
-    padding: 16px;
-    border-radius: 8px;
-    margin-bottom: 14px;
-  }
-
-  .riga-utenza span[data-label]::before {
-    font-size: 1.2rem;
-  }
-
   footer {
     font-size: 1.1rem;
     margin-top: 24px;
-  }
-}
-@media (max-width: 700px) {
-  .riga-utenza-header {
-    display: none !important;
   }
 }

@@ -1,0 +1,7672 @@
+[
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO 1 BOBINOVIA MAG.LATERALE C1",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.A",
+        "sezione": "S.4",
+        "utenza": "UT.104"
+    },
+    {
+        "descrizione": "Aspirante Tela",
+        "cabina": "CAB.21",
+        "quadro": "AL1",
+        "sezione": "xx",
+        "utenza": "11",
+        "tag": "D11",
+        "sede_tecnica_ut": "L5061CC008",
+        "sezionatore_bm": "SI",
+        "sede_tecnica_bm": "L202030008",
+        "itlu": "ITLU012898"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO POZZI E CARROPONTI",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.A",
+        "sezione": "S.4",
+        "utenza": "UT.103"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE CARROPONTE DEPOSITO FELTRI EX",
+        "cabina": "",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "OFFICINA MECCANICA",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.A",
+        "sezione": "S.5",
+        "utenza": "UT.7"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE BLINDO LINEA CARROPONTI PM1",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.A",
+        "sezione": "S.5",
+        "utenza": "UT.106"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO SERVIZI CABINA 13 C2",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.A",
+        "sezione": "S.1",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "ALIMENTAZIONE GENERATORE",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.A",
+        "sezione": "S.1",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "SERVIZI AUX 220V UPS DA QUADRO DISTRIBUZIONE SALA",
+        "cabina": "",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "YOKO",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.1",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "SPAPPOLATORE 1 FINE MACCHINA INVERTER",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.2 3",
+        "utenza": "UT.1"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE COMPRESSORE ARIA 4",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.4",
+        "utenza": "UT.102"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE ESSICCATORE ARIA 1",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.4",
+        "utenza": "UT.111"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 110V QUADRO ALLARME FELTRI SECCHERIA",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.4",
+        "utenza": "UT.201"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE SEGNALAZIONE STOP MOTORI CAPPA",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.4",
+        "utenza": "UT.202"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO PLC TAIL SHOOTER LISCIA",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.4",
+        "utenza": "UT.204"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 110V EV RISCALDAMENTO UFFICI TECNICI",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.4",
+        "utenza": "UT.205"
+    },
+    {
+        "descrizione": "CARROPONTE EX CALDAIA",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.5",
+        "utenza": "UT.4"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE COMPRESSORE ARIA 1",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.5",
+        "utenza": "UT.101"
+    },
+    {
+        "descrizione": "CARROPONTE MAGAZZINO LATERALE C1",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.5",
+        "utenza": "UT.5"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO 2 BOBINOVIA EX CALDAIA",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.6",
+        "utenza": "UT.105"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO STOCCAGGIO AMIDO SIRAL",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.6",
+        "utenza": "UT.108"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE PODIO BOBINOVIA AIUTO RIBOBINA C1",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.6",
+        "utenza": "UT.112"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE LINEA PRESE 380V 220V 24V TERRAZZA",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.6",
+        "utenza": "UT.120"
+    },
+    {
+        "descrizione": "TERMOCONVETTORE 1",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.7",
+        "utenza": "UT.8"
+    },
+    {
+        "descrizione": "TERMOCONVETTORE 2",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.7",
+        "utenza": "UT.9"
+    },
+    {
+        "descrizione": "TERMOCONVETTORE 3",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.7",
+        "utenza": "UT.10"
+    },
+    {
+        "descrizione": "TERMOCONVETTORE 4",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.7",
+        "utenza": "UT.11"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 380V QUADRO FAIL FORCE LISCIA TAIL",
+        "cabina": "",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "SHOOTER",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.7",
+        "utenza": "UT.113"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO SEGA ANIME PM1",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.7",
+        "utenza": "UT.115"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO IBS CAMBIO ROTOLO",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.7",
+        "utenza": "UT.116"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO REGGIATRICE",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.7",
+        "utenza": "UT.117"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V GRUPPO CARICA BATTERIE",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.7",
+        "utenza": "UT.118"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO FINESTRE RIBOBINA PM1",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.7",
+        "utenza": "UT.119"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO GOVONI IMPIANTO STOCCAGGIO",
+        "cabina": "",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "AMIDO",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.5",
+        "utenza": "UT.121"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE LINEA PRESE 380V 220V 24V CALDAIA",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.6",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "ALIMENTAZIONE LINEA PRESE 380V 220V 24V LATO",
+        "cabina": "",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "COMANDO",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.6",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "ALIMENTAZIONE LINEA PRESE 380V 220V 24V LATO",
+        "cabina": "",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "SERVIZIO",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.6",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "ALIMENTAZIONE LINEA PRESE 380V 220V 24V",
+        "cabina": "",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "SPAPPOLATORE TINE CAPOTELA",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.6",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V CONDIZIONATORE RIBOBINA",
+        "cabina": "CAB.04",
+        "quadro": "Q.9 LT.B",
+        "sezione": "S.7",
+        "utenza": "UT.121"
+    },
+    {
+        "descrizione": "LUCI SILOS",
+        "cabina": "CAB.04",
+        "quadro": "Q.MURO",
+        "sezione": "S.",
+        "utenza": "UT.QF1"
+    },
+    {
+        "descrizione": "PRESA 220V EX MENSA",
+        "cabina": "CAB.04",
+        "quadro": "Q.MURO",
+        "sezione": "S.",
+        "utenza": "UT.QF2"
+    },
+    {
+        "descrizione": "POMPE RISCALDAMENTO UFFICI TECNICI",
+        "cabina": "CAB.04",
+        "quadro": "Q.MURO",
+        "sezione": "S.",
+        "utenza": "UT.QF3"
+    },
+    {
+        "descrizione": "LUCI EMERGENZA CABINA 04",
+        "cabina": "CAB.04",
+        "quadro": "Q.MURO",
+        "sezione": "S.",
+        "utenza": "UT.QF4"
+    },
+    {
+        "descrizione": "QUADRO ELETTRICO LUCI EMERGENZA",
+        "cabina": "CAB.04",
+        "quadro": "Q.MURO",
+        "sezione": "S.",
+        "utenza": "UT.QF5"
+    },
+    {
+        "descrizione": "LUCI CABINA 04",
+        "cabina": "CAB.04",
+        "quadro": "Q.MURO",
+        "sezione": "S.",
+        "utenza": "UT.QF6"
+    },
+    {
+        "descrizione": "AUSILIARI JEMBACKER",
+        "cabina": "CAB.05",
+        "quadro": "Q.PCC",
+        "sezione": "S.1",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO SEDIMENTATORE PRIMARIO",
+        "cabina": "CAB.05",
+        "quadro": "Q.PCC",
+        "sezione": "S.3",
+        "utenza": "UT.2"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO ANTINCENDIO EUSEBI",
+        "cabina": "CAB.05",
+        "quadro": "Q.PCC",
+        "sezione": "S.3",
+        "utenza": "UT.6"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO THIOPAC",
+        "cabina": "CAB.05",
+        "quadro": "Q.PCC",
+        "sezione": "S.3",
+        "utenza": "UT.7"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE INGRESSO NORD",
+        "cabina": "CAB.05",
+        "quadro": "Q.PCC",
+        "sezione": "S.3",
+        "utenza": "UT.29"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO ANAEROBICO",
+        "cabina": "CAB.05",
+        "quadro": "Q.PCC",
+        "sezione": "S.4",
+        "utenza": "UT.1"
+    },
+    {
+        "descrizione": "ALIMENYAZIONE OFFICINE",
+        "cabina": "CAB.05",
+        "quadro": "Q.PCC",
+        "sezione": "S.4",
+        "utenza": "UT.3"
+    },
+    {
+        "descrizione": "TORRI FARO",
+        "cabina": "CAB.05",
+        "quadro": "Q.PCC",
+        "sezione": "S.4",
+        "utenza": "UT.22 23"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO IONICS",
+        "cabina": "CAB.05",
+        "quadro": "Q.PCC",
+        "sezione": "S.4",
+        "utenza": "UT.30"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO THIOPAC 2",
+        "cabina": "CAB.05",
+        "quadro": "Q.PCC",
+        "sezione": "S.4",
+        "utenza": "UT.25"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO LAGUNA AEROBICO",
+        "cabina": "CAB.05",
+        "quadro": "Q.PCC",
+        "sezione": "S.5",
+        "utenza": "UT.5"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO ANTINCENDIO COMANDO",
+        "cabina": "",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA SOLLEVAMENTO",
+        "cabina": "CAB.05",
+        "quadro": "Q.PCC",
+        "sezione": "S.5",
+        "utenza": "UT.4"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V CARICABATTERIE GENERATORE",
+        "cabina": "CAB.05",
+        "quadro": "Q.PCC",
+        "sezione": "S.5",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V CARICABATTERIE ANTINCENDIO",
+        "cabina": "CAB.05",
+        "quadro": "Q.PCC",
+        "sezione": "S.5",
+        "utenza": "UT.17"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V VENTILATORI TRAFO 12",
+        "cabina": "CAB.05",
+        "quadro": "Q.PCC",
+        "sezione": "S.5",
+        "utenza": "UT.18"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V ACQUAPUR",
+        "cabina": "CAB.05",
+        "quadro": "Q.PCC",
+        "sezione": "S.5",
+        "utenza": "UT.19"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V PRESA CABINA",
+        "cabina": "CAB.05",
+        "quadro": "Q.PCC",
+        "sezione": "S.5",
+        "utenza": "UT.20"
+    },
+    {
+        "descrizione": "PRESE 380V 220V LAGUNA",
+        "cabina": "CAB.05",
+        "quadro": "Q.PCC",
+        "sezione": "S.5",
+        "utenza": "UT.8"
+    },
+    {
+        "descrizione": "PRESE 380V 220V DEPURATORE",
+        "cabina": "CAB.05",
+        "quadro": "Q.PCC",
+        "sezione": "S.5",
+        "utenza": "UT.9"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS",
+        "cabina": "CAB.05",
+        "quadro": "Q.PCC",
+        "sezione": "S.3",
+        "utenza": "UT.11"
+    },
+    {
+        "descrizione": "POMPA SOLLEVAMENTO VERTICALE",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.1",
+        "utenza": "UT.SCH 150"
+    },
+    {
+        "descrizione": "POMPA GRANDE VASCONI OVEST PER TINE 54 55",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.1",
+        "utenza": "UT.SCH 160"
+    },
+    {
+        "descrizione": "STRUMENTAZIONE",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.2",
+        "utenza": "UT.SCH 120"
+    },
+    {
+        "descrizione": "POMPA PICCOLA VASCONI EST PER TINE 54 55",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.2",
+        "utenza": "UT.SCH 230"
+    },
+    {
+        "descrizione": "POMPA SOLLEVAMENTO OVEST",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.3",
+        "utenza": "UT.SCH 170"
+    },
+    {
+        "descrizione": "POMPA SOLLEVAMENTO EST",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.3",
+        "utenza": "UT.SCH 180"
+    },
+    {
+        "descrizione": "POMPA SENTINA VASCA POMPE DI SOLLEVAMENTO",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.3",
+        "utenza": "UT.SCH 190"
+    },
+    {
+        "descrizione": "POMPA FANGHI EST",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.4",
+        "utenza": "UT.SCH 220"
+    },
+    {
+        "descrizione": "POMPA 1 POMPA 2 ACQUA FRIZZONE",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.4",
+        "utenza": "UT.SCH 240"
+    },
+    {
+        "descrizione": "GRIGLIA SEDIMENTATORE PRIMARIO",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.4",
+        "utenza": "UT.SCH 300"
+    },
+    {
+        "descrizione": "POMPA RILANCIO DA VASCA ESTERNA",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.4",
+        "utenza": "UT.SCH 260"
+    },
+    {
+        "descrizione": "CENTRALINA EMERGENZA PER CANCELLI ACCESSO PONTE",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.4",
+        "utenza": "UT.SCH 130"
+    },
+    {
+        "descrizione": "PONTE RASCHIATORE",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.4",
+        "utenza": "UT.SCH 140"
+    },
+    {
+        "descrizione": "MIXER 1",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.4",
+        "utenza": "UT.SCH 270A"
+    },
+    {
+        "descrizione": "MIXER 2",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.4",
+        "utenza": "UT.SCH 270B"
+    },
+    {
+        "descrizione": "MIXER 3",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.4",
+        "utenza": "UT.SCH 270C"
+    },
+    {
+        "descrizione": "NASTRO TRASPORTATORE GRIGLIA",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.5",
+        "utenza": "UT.SCH 320"
+    },
+    {
+        "descrizione": "ROTOSTACCIO",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.5",
+        "utenza": "UT.SCH 340"
+    },
+    {
+        "descrizione": "COCLEA SEDIMENTATORE PRIMARIO",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.5",
+        "utenza": "UT.SCH 350"
+    },
+    {
+        "descrizione": "POMPA FANGHI OVEST INVERTER",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.5",
+        "utenza": "UT.SCH 370"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 110V FLOMITE FRIZZONE",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.2",
+        "utenza": "UT.SCH"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 110V SEPAL LIVELLO ANTINCENDIO",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.2",
+        "utenza": "UT.SCH"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 110V ALIMENTATORE ET200M",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.2",
+        "utenza": "UT.SCH"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 110V SCATOLA ALLARMI PER",
+        "cabina": "",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "LABORATORIO",
+        "cabina": "CAB.05",
+        "quadro": "Q.EIL",
+        "sezione": "S.2",
+        "utenza": "UT.SCH"
+    },
+    {
+        "descrizione": "",
+        "cabina": "CAB.05",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "POMPA 4 DOSATRICE ACIDO FOSFORICO",
+        "cabina": "CAB.06",
+        "quadro": "Q.ANAE",
+        "sezione": "S.1",
+        "utenza": "UT.17"
+    },
+    {
+        "descrizione": "POMPA 6 CARICAMENTO SODA",
+        "cabina": "CAB.06",
+        "quadro": "Q.ANAE",
+        "sezione": "S.2",
+        "utenza": "UT.21"
+    },
+    {
+        "descrizione": "POMPA 7 DOSATRICE SODA",
+        "cabina": "CAB.06",
+        "quadro": "Q.ANAE",
+        "sezione": "S.2",
+        "utenza": "UT.22 23"
+    },
+    {
+        "descrizione": "STABILIZZATORE",
+        "cabina": "CAB.06",
+        "quadro": "Q.ANAE",
+        "sezione": "S.2",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "PLC + LIVELLI PER ROTOSTACCIO E TORRI RAFFREDDAMENTO",
+        "cabina": "CAB.06",
+        "quadro": "Q.ANAE",
+        "sezione": "S.3",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRI REATTORE VOITH 1",
+        "cabina": "CAB.06",
+        "quadro": "Q.ANAE",
+        "sezione": "S.4",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "AGITATORE BUFFER TANK",
+        "cabina": "CAB.06",
+        "quadro": "Q.ANAE",
+        "sezione": "S.4",
+        "utenza": "UT.32"
+    },
+    {
+        "descrizione": "POMPA 8A ALIMENTAZIONE TORRI DI RAFFREDDAMENTO A",
+        "cabina": "CAB.06",
+        "quadro": "Q.ANAE",
+        "sezione": "S.4",
+        "utenza": "UT.33"
+    },
+    {
+        "descrizione": "POMPA 8B ALIMENTAZIONE TORRI DI RAFFREDDAMENTO B",
+        "cabina": "CAB.06",
+        "quadro": "Q.ANAE",
+        "sezione": "S.4",
+        "utenza": "UT.34"
+    },
+    {
+        "descrizione": "POMPA 5 DOSATRICE UREA",
+        "cabina": "CAB.06",
+        "quadro": "Q.ANAE",
+        "sezione": "S.5",
+        "utenza": "UT.19"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE RISCALDAMENTO SODA",
+        "cabina": "CAB.06",
+        "quadro": "Q.ANAE",
+        "sezione": "S.5",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "POMPA 10A ALIMENTO REATTORE USAB",
+        "cabina": "CAB.06",
+        "quadro": "Q.ANAE",
+        "sezione": "S.5",
+        "utenza": "UT.35"
+    },
+    {
+        "descrizione": "POMPA 10B ALIMENTO REATTORE USAB",
+        "cabina": "CAB.06",
+        "quadro": "Q.ANAE",
+        "sezione": "S.5",
+        "utenza": "UT.36"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO TELETTA FANGHI",
+        "cabina": "CAB.06",
+        "quadro": "Q.ANAE",
+        "sezione": "S.6",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "VALVOLA MOTORIZZATA",
+        "cabina": "CAB.06",
+        "quadro": "Q.ANAE",
+        "sezione": "S.6",
+        "utenza": "UT.25"
+    },
+    {
+        "descrizione": "POMPA ACQUA LAVAGGIO REATTORE",
+        "cabina": "CAB.06",
+        "quadro": "Q.ANAE",
+        "sezione": "S.6",
+        "utenza": "UT.37"
+    },
+    {
+        "descrizione": "POMPA 12A ACQUE DI RISULTA A",
+        "cabina": "CAB.06",
+        "quadro": "Q.ANAE",
+        "sezione": "S.6",
+        "utenza": "UT.39"
+    },
+    {
+        "descrizione": "POMPA 12B ACQUE DI RISULTA B INVERTER ABB A MURO",
+        "cabina": "CAB.06",
+        "quadro": "Q.ANAE",
+        "sezione": "S.6",
+        "utenza": "UT.40"
+    },
+    {
+        "descrizione": "POMPA 9B ALIMENTO BUFFER TANK B",
+        "cabina": "CAB.06",
+        "quadro": "Q.ANAE",
+        "sezione": "S.7",
+        "utenza": "UT.28"
+    },
+    {
+        "descrizione": "VENTILATORE 1A TORRE DI RAFFREDDAMENTO A INV.ABB",
+        "cabina": "CAB.06",
+        "quadro": "Q.ANAE",
+        "sezione": "S.7",
+        "utenza": "UT.29"
+    },
+    {
+        "descrizione": "VENTILATORE 1B TORRE DI RAFFREDDAMENTO B INV.ABB",
+        "cabina": "CAB.06",
+        "quadro": "Q.ANAE",
+        "sezione": "S.7",
+        "utenza": "UT.30"
+    },
+    {
+        "descrizione": "POMPA 9B ALIMENTO BUFFER TANK B",
+        "cabina": "CAB.06",
+        "quadro": "Q.ANAE",
+        "sezione": "S.7",
+        "utenza": "UT.31"
+    },
+    {
+        "descrizione": "POMPA P04G01 RICICLO 2 REATTORE R2S",
+        "cabina": "CAB.06",
+        "quadro": "Q.VOITH",
+        "sezione": "S.2",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "POMPA P01G01 ALIMENTO 1 REATTORE R2S",
+        "cabina": "CAB.06",
+        "quadro": "Q.VOITH",
+        "sezione": "S.2",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "POMPA P03G01 RICICLO 1 REATTORE R2S",
+        "cabina": "CAB.06",
+        "quadro": "Q.VOITH",
+        "sezione": "S.3",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "POMPA P02G01 ALIMENTO 2 REATTORE R2S",
+        "cabina": "CAB.06",
+        "quadro": "Q.VOITH",
+        "sezione": "S.3",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO PONTE SEDIMENTATORE FINALE",
+        "cabina": "CAB.07",
+        "quadro": "Q,LAGUN",
+        "sezione": "S.1",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO FILTRI SABBIA",
+        "cabina": "CAB.07",
+        "quadro": "Q,LAGUN",
+        "sezione": "S.1",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "TRASFORMATORI 380V 220V 110V",
+        "cabina": "CAB.07",
+        "quadro": "Q,LAGUN",
+        "sezione": "S.2",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "MAMMUTH 1",
+        "cabina": "CAB.07",
+        "quadro": "Q,LAGUN",
+        "sezione": "S.2",
+        "utenza": "UT.10"
+    },
+    {
+        "descrizione": "MAMMUTH 2",
+        "cabina": "CAB.07",
+        "quadro": "Q,LAGUN",
+        "sezione": "S.2",
+        "utenza": "UT.11"
+    },
+    {
+        "descrizione": "MAMMUTH 3",
+        "cabina": "CAB.07",
+        "quadro": "Q,LAGUN",
+        "sezione": "S.3",
+        "utenza": "UT.12"
+    },
+    {
+        "descrizione": "MAMMUTH 4",
+        "cabina": "CAB.07",
+        "quadro": "Q,LAGUN",
+        "sezione": "S.3",
+        "utenza": "UT.13"
+    },
+    {
+        "descrizione": "MAMMUTH 5",
+        "cabina": "CAB.07",
+        "quadro": "Q,LAGUN",
+        "sezione": "S.4",
+        "utenza": "UT.14"
+    },
+    {
+        "descrizione": "POMPA 15A RICIRCOLO FANGHI",
+        "cabina": "CAB.07",
+        "quadro": "Q,LAGUN",
+        "sezione": "S.4",
+        "utenza": "UT.15"
+    },
+    {
+        "descrizione": "POMPA 15B RICIRCOLO FANGHI",
+        "cabina": "CAB.07",
+        "quadro": "Q,LAGUN",
+        "sezione": "S.4",
+        "utenza": "UT.19"
+    },
+    {
+        "descrizione": "POMPA 14 FANGHI DI SUPERO",
+        "cabina": "CAB.07",
+        "quadro": "Q,LAGUN",
+        "sezione": "S.4",
+        "utenza": "UT.16"
+    },
+    {
+        "descrizione": "STRAMAZZO",
+        "cabina": "CAB.07",
+        "quadro": "Q,LAGUN",
+        "sezione": "S.4",
+        "utenza": "UT.17"
+    },
+    {
+        "descrizione": "POMPA 4A CONTRO LAVAGGIO FILTRI SABBIA",
+        "cabina": "CAB.07",
+        "quadro": "Q,LAGUN",
+        "sezione": "S.5",
+        "utenza": "UT.20"
+    },
+    {
+        "descrizione": "OSSIGENATORE 1",
+        "cabina": "CAB.07",
+        "quadro": "Q,LAGUN",
+        "sezione": "S.6",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "OSSIGENATORE 2",
+        "cabina": "CAB.07",
+        "quadro": "Q,LAGUN",
+        "sezione": "S.6",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "POMPA 2A FILTRAZIONE A",
+        "cabina": "CAB.07",
+        "quadro": "Q,C.S.T.",
+        "sezione": "S.1",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "POMPA 2B FILTRAZIONE B",
+        "cabina": "CAB.07",
+        "quadro": "Q,C.S.T.",
+        "sezione": "S.1",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "POMPA 3A RILANCIO ACQUA A",
+        "cabina": "CAB.07",
+        "quadro": "Q,C.S.T.",
+        "sezione": "S.1",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "POMPA 3B RILANCIO ACQUA B",
+        "cabina": "CAB.07",
+        "quadro": "Q,C.S.T.",
+        "sezione": "S.1",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "POMPA 4A COMANDO AVVIAMENTO",
+        "cabina": "CAB.07",
+        "quadro": "Q,C.S.T.",
+        "sezione": "S.1",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "010T POMPA 1",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.3",
+        "utenza": "UT.20"
+    },
+    {
+        "descrizione": "010T POMPA 2",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.3",
+        "utenza": "UT.21"
+    },
+    {
+        "descrizione": "010T RESISTENZA 1",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.3",
+        "utenza": "UT.22"
+    },
+    {
+        "descrizione": "010T RESISTENZA 2",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.4",
+        "utenza": "UT.23"
+    },
+    {
+        "descrizione": "010T VENTILATORE ASPIRAZIONE CONDENSE",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.9",
+        "utenza": "UT.43"
+    },
+    {
+        "descrizione": "010T1 POMPA 1 RILANCIO",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.4",
+        "utenza": "UT.24"
+    },
+    {
+        "descrizione": "010T1 POMPA 2 RILANCIO",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.4",
+        "utenza": "UT.25"
+    },
+    {
+        "descrizione": "060T VENTILATORE SCAMBIATORE",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.10",
+        "utenza": "UT.47"
+    },
+    {
+        "descrizione": "110T POMPA 1",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.9",
+        "utenza": "UT.26"
+    },
+    {
+        "descrizione": "110T POMPA 1 SCAMBIATORE RAFFREDDAMENTO OLIO",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.4",
+        "utenza": "UT.31"
+    },
+    {
+        "descrizione": "110T POMPA 2",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.10",
+        "utenza": "UT.27"
+    },
+    {
+        "descrizione": "110T POMPA 2 SCAMBIATORE RAFFREDDAMENTO OLIO",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.5",
+        "utenza": "UT.32"
+    },
+    {
+        "descrizione": "110T RESISTENZA 1",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.5",
+        "utenza": "UT.28"
+    },
+    {
+        "descrizione": "110T RESISTENZA 2",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.5",
+        "utenza": "UT.29"
+    },
+    {
+        "descrizione": "110T RESISTENZA 3",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.5",
+        "utenza": "UT.30"
+    },
+    {
+        "descrizione": "110T VENTILATORE ASPIRAZIONE CONDENSE",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.9",
+        "utenza": "UT.44"
+    },
+    {
+        "descrizione": "110T VENTILATORE 1",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.4",
+        "utenza": "UT.33"
+    },
+    {
+        "descrizione": "110T VENTILATORE 2",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.5",
+        "utenza": "UT.34"
+    },
+    {
+        "descrizione": "110T VENTILATORE 3",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.7",
+        "utenza": "UT.35"
+    },
+    {
+        "descrizione": "110T VENTILATORE 4",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.8",
+        "utenza": "UT.36"
+    },
+    {
+        "descrizione": "110T VENTILATORE 5",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.8",
+        "utenza": "UT.37"
+    },
+    {
+        "descrizione": "110T VENTILATORE 6",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.8",
+        "utenza": "UT.38"
+    },
+    {
+        "descrizione": "110T1 POMPA 1 RILANCIO",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.8",
+        "utenza": "UT.39"
+    },
+    {
+        "descrizione": "110T1 POMPA 2 RILANCIO",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.8",
+        "utenza": "UT.40"
+    },
+    {
+        "descrizione": "110T2 POMPA 1 RILANCIO",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.9",
+        "utenza": "UT.41"
+    },
+    {
+        "descrizione": "110T2 POMPA 2 RILANCIO",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.9",
+        "utenza": "UT.42"
+    },
+    {
+        "descrizione": "CONDIZIONATORE CABINA 22",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.1",
+        "utenza": "UT.7"
+    },
+    {
+        "descrizione": "ESTRAZIONE ARIA COMPRESSORE 6",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.1",
+        "utenza": "UT.6"
+    },
+    {
+        "descrizione": "MODULE PRO L2 SALITA DISCESA ACQUATROLL PM2",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.3",
+        "utenza": "UT.12"
+    },
+    {
+        "descrizione": "POMPA PREMISTOPPA CUOCITORE AMIDO SIZE PRESS",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.2",
+        "utenza": "UT.13"
+    },
+    {
+        "descrizione": "POMPA SIZE PRESS CILINDRI CENTRALE TERMICA",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.10",
+        "utenza": "UT.45"
+    },
+    {
+        "descrizione": "POMPA SIZE PRESS TESTE CENTRALE TERMICA",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.10",
+        "utenza": "UT.46"
+    },
+    {
+        "descrizione": "POMPA 1 CONDENSE SONDEL",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.2",
+        "utenza": "UT.8"
+    },
+    {
+        "descrizione": "POMPA 2 CONDENSE SONDEL",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.2",
+        "utenza": "UT.9"
+    },
+    {
+        "descrizione": "POMPA CONDENSE SEPARATORE 5",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.3",
+        "utenza": "UT.15"
+    },
+    {
+        "descrizione": "POMPA TRAVASO OLIO PM2",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.3",
+        "utenza": "UT.16"
+    },
+    {
+        "descrizione": "POMPA WATERJET ACQUA FORMACODA",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.7",
+        "utenza": "UT.19"
+    },
+    {
+        "descrizione": "REFRIGERATORE ARIA 2",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.3",
+        "utenza": "UT.14"
+    },
+    {
+        "descrizione": "NASTRINO TAIL SHOOTER 1 SIZE PRESS",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.2",
+        "utenza": "UT.48"
+    },
+    {
+        "descrizione": "V15 TORRINO 1 ESTRAZIONE ARIA",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.1",
+        "utenza": "UT.2"
+    },
+    {
+        "descrizione": "V16 TORRINO 2 ESTRAZIONE ARIA",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.1",
+        "utenza": "UT.3"
+    },
+    {
+        "descrizione": "V17 TORRINO 3 ESTRAZIONE ARIA",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.1",
+        "utenza": "UT.4"
+    },
+    {
+        "descrizione": "V18 TORRINO 4 ESTRAZIONE ARIA",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.1",
+        "utenza": "UT.5"
+    },
+    {
+        "descrizione": "V219 ARIA CALDA PLAFONE 3",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.2",
+        "utenza": "UT.10"
+    },
+    {
+        "descrizione": "V220 ARIA CALDA PLAFONE4",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.2",
+        "utenza": "UT.11"
+    },
+    {
+        "descrizione": "VENTILATORE CARROPONTE",
+        "cabina": "CAB.13",
+        "quadro": "Q.9",
+        "sezione": "S.1",
+        "utenza": "UT.1"
+    },
+    {
+        "descrizione": "TAIL SHOOTER TAPPETO 1",
+        "cabina": "CAB.13/A",
+        "quadro": "Q.MURO SX",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "TAIL SHOOTER TAPPETO 2",
+        "cabina": "CAB.13/A Q.MURO SX",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "TAIL SHOOTER TAPPETO 3",
+        "cabina": "CAB.13/A Q.MURO SX",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA 1 CALANDRA LISCIA",
+        "cabina": "CAB.13/A Q.MURO SX",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA 2 CALANDRA LISCIA",
+        "cabina": "CAB.13/A Q.MURO SX",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "SCAMBIATORE CALANDRA LISCIA",
+        "cabina": "CAB.13/A Q.MURO SX",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA 1 KUSTERS OSCILLATORE",
+        "cabina": "CAB.13/A Q.MURO SX",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA 2 KUSTERS OSCILLATORE",
+        "cabina": "CAB.13/A Q.MURO SX",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "SCAMBIATORE KUSTERS OSCILLATORE",
+        "cabina": "CAB.13/A Q.MURO SX",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "RESISTENZE KUSTERS OSCILLATORE",
+        "cabina": "CAB.13/A Q.MURO SX",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "RASCHIA SUPERIORE OSCILLATORE",
+        "cabina": "CAB.13/A Q.MURO SX",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "RASCHIA INFERIORE OSCILLATORE",
+        "cabina": "CAB.13/A Q.MURO SX",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE REMOTAZIONE CENTRALI E PULPITO",
+        "cabina": "CAB.13/A Q.MURO SX",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE CENTRALE ACQUA",
+        "cabina": "CAB.13/A Q.MURO SX",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE CENTRALINA PASSAGGIO CODA",
+        "cabina": "CAB.13/A Q.MURO SX",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "VIS PM2 TELECAMERE POPE",
+        "cabina": "CAB.13/A",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "AEREOTERMO EST",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.8",
+        "utenza": "UT.24"
+    },
+    {
+        "descrizione": "AEREOTERMO OVET",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.8",
+        "utenza": "UT.23"
+    },
+    {
+        "descrizione": "AGITATORE TINA 4",
+        "cabina": "CAB.14",
+        "quadro": "Q.H",
+        "sezione": "S.7",
+        "utenza": "UT.8"
+    },
+    {
+        "descrizione": "AGITATORE TINA 5",
+        "cabina": "CAB.14",
+        "quadro": "Q.G",
+        "sezione": "S.8",
+        "utenza": "UT.4"
+    },
+    {
+        "descrizione": "POMPA ALTA PRESSIONE",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.2",
+        "utenza": "UT.13"
+    },
+    {
+        "descrizione": "AGITATORE 28",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.M",
+        "utenza": "UT.13"
+    },
+    {
+        "descrizione": "AGITATORE 29",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.L",
+        "utenza": "UT.23"
+    },
+    {
+        "descrizione": "AGITATORE 30",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.M",
+        "utenza": "UT.15"
+    },
+    {
+        "descrizione": "AGITATORE 35 TINA 35",
+        "cabina": "CAB.14",
+        "quadro": "Q.G",
+        "sezione": "S.3",
+        "utenza": "UT.35"
+    },
+    {
+        "descrizione": "AGITATORE 36",
+        "cabina": "CAB.14",
+        "quadro": "Q.H",
+        "sezione": "S.7",
+        "utenza": "UT.9"
+    },
+    {
+        "descrizione": "AGITATORE 37",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.O",
+        "utenza": "UT.9"
+    },
+    {
+        "descrizione": "AGITATORE 38",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.C",
+        "utenza": "UT.92"
+    },
+    {
+        "descrizione": "AGITATORE 39",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.D",
+        "utenza": "UT.74"
+    },
+    {
+        "descrizione": "AGITATORE 43",
+        "cabina": "CAB.14",
+        "quadro": "Q.G",
+        "sezione": "S.1",
+        "utenza": "UT.21"
+    },
+    {
+        "descrizione": "AGITATORE TINELLO 45",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.1",
+        "utenza": "UT.8"
+    },
+    {
+        "descrizione": "AGITATORE 53 TINA 53",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.2",
+        "utenza": "UT.25"
+    },
+    {
+        "descrizione": "AGITATORE 56 TINELLO 56",
+        "cabina": "CAB.14",
+        "quadro": "Q.H",
+        "sezione": "S.8",
+        "utenza": "UT.30"
+    },
+    {
+        "descrizione": "AGITATORE 65",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.B",
+        "utenza": "UT.30"
+    },
+    {
+        "descrizione": "AGITATORE V2 ALTO",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.A",
+        "utenza": "UT.113"
+    },
+    {
+        "descrizione": "AGITATORE V2 BASSO",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.A",
+        "utenza": "UT.114"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE Q. SPINGIDISCHI RAFFINATORI",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.N",
+        "utenza": "UT.114"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE CELLE DI FLOTTAZIONE",
+        "cabina": "CAB.14",
+        "quadro": "Q.H",
+        "sezione": "S.2",
+        "utenza": "UT.77"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 110V QUADRO 10 (3000V)",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.E",
+        "utenza": "UT.12"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 110V QUADRO 11 (3000V)",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.E",
+        "utenza": "UT.31"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V BTG PTC-20",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.D",
+        "utenza": "UT.133"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V BTG TSS-70",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.D",
+        "utenza": "UT.134"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V NASTRO PULPER6",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.D",
+        "utenza": "UT.131"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V QUADRO NEW-2 YOKO",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.E",
+        "utenza": "UT.33"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE INVERTER POMPA TINA 4",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.5",
+        "utenza": "UT.6"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE INVERTER PULPER 6",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.G",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "ALIMENTAZIONE Q. BOBINOVIA MAG. BOBINE",
+        "cabina": "CAB.14",
+        "quadro": "Q.G",
+        "sezione": "S.7",
+        "utenza": "UT.14"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE Q. TAGLIAFILI NASTRO PULPER 6",
+        "cabina": "CAB.14",
+        "quadro": "Q.G",
+        "sezione": "S.8",
+        "utenza": "UT.8"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE Q. BIOCIDA",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.2",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "ALIMENTAZIONE Q. FILTRO ACQUEDOTTO IND.",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.N",
+        "utenza": "UT.78"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE INVERTER COMBISORTER 4-5",
+        "cabina": "CAB.14",
+        "quadro": "Q.H",
+        "sezione": "S.5",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "ALIMENTAZIONE INVERTER POMPA TINA 5",
+        "cabina": "CAB.14",
+        "quadro": "Q.G",
+        "sezione": "S.4",
+        "utenza": "UT.5"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO SCARTI CAB.19",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.F",
+        "utenza": "UT.75"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO COLORE",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.F",
+        "utenza": "UT.202"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO SHEDDER",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.I",
+        "utenza": "UT.11"
+    },
+    {
+        "descrizione": "CALDAIA ELETTRICA",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.1",
+        "utenza": "UT.36"
+    },
+    {
+        "descrizione": "CARROPONTE COMBISORTER",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.C",
+        "utenza": "UT.90"
+    },
+    {
+        "descrizione": "CARROPONTE RAFFINAZIONE",
+        "cabina": "CAB.14",
+        "quadro": "Q.H",
+        "sezione": "S.1",
+        "utenza": "UT.24"
+    },
+    {
+        "descrizione": "COCLEA PULPER 6 JUNK BOX",
+        "cabina": "CAB.14",
+        "quadro": "Q.G",
+        "sezione": "S.1",
+        "utenza": "UT.20"
+    },
+    {
+        "descrizione": "COCLEA 1 SUNDS TINA38",
+        "cabina": "CAB.14",
+        "quadro": "Q.H",
+        "sezione": "S.8",
+        "utenza": "UT.28"
+    },
+    {
+        "descrizione": "COCLEA 2 SUNDS TINA39",
+        "cabina": "CAB.14",
+        "quadro": "Q.H",
+        "sezione": "S.8",
+        "utenza": "UT.29"
+    },
+    {
+        "descrizione": "COCLEA 9",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.8",
+        "utenza": "UT.17"
+    },
+    {
+        "descrizione": "COCLEA 10",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.8",
+        "utenza": "UT.18"
+    },
+    {
+        "descrizione": "COCLEA 11",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.8",
+        "utenza": "UT.19"
+    },
+    {
+        "descrizione": "COCLEA 12",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.8",
+        "utenza": "UT.20"
+    },
+    {
+        "descrizione": "COCLEA 13",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.8",
+        "utenza": "UT.21"
+    },
+    {
+        "descrizione": "COCLEA 14",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.8",
+        "utenza": "UT.22"
+    },
+    {
+        "descrizione": "COCLEA SABBIERA CICLONI RAFFINAZIONE",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.I",
+        "utenza": "UT.8"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE INVERTER COMBISORTER 1-3",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.G",
+        "utenza": "UT.3"
+    },
+    {
+        "descrizione": "SEPARATORE FIBERFRACTOR LINEA 4",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.7",
+        "utenza": "UT.15"
+    },
+    {
+        "descrizione": "SEPARATORE FIBERFRACTOR LINEA 5",
+        "cabina": "CAB.14",
+        "quadro": "Q.G",
+        "sezione": "S.5",
+        "utenza": "UT.12"
+    },
+    {
+        "descrizione": "1º STADIO LINEA 4 FIBERSORTER",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.5",
+        "utenza": "UT.7"
+    },
+    {
+        "descrizione": "1° STADIO LINEA 5 FIBERSORTER",
+        "cabina": "CAB.14",
+        "quadro": "Q.G",
+        "sezione": "S.5",
+        "utenza": "UT.6"
+    },
+    {
+        "descrizione": "2° STADIO LINEA 4 FIBERSORTER",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.7",
+        "utenza": "UT.10"
+    },
+    {
+        "descrizione": "1° STADIO LINEA 5 FIBERSORTER",
+        "cabina": "CAB.14",
+        "quadro": "Q.G",
+        "sezione": "S.7",
+        "utenza": "UT.9"
+    },
+    {
+        "descrizione": "FLOMITI COMBISORTER",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.E",
+        "utenza": "UT.34"
+    },
+    {
+        "descrizione": "HYDROPURG 7 PULPER 6 SUD",
+        "cabina": "CAB.14",
+        "quadro": "Q.G",
+        "sezione": "S.3",
+        "utenza": "UT.1"
+    },
+    {
+        "descrizione": "HYDROPURG 8 PULPER 6 NORD",
+        "cabina": "CAB.14",
+        "quadro": "Q.G",
+        "sezione": "S.9",
+        "utenza": "UT.22"
+    },
+    {
+        "descrizione": "NASTRINO 6",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.I",
+        "utenza": "UT.6"
+    },
+    {
+        "descrizione": "NASTRINO 7",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.I",
+        "utenza": "UT.7"
+    },
+    {
+        "descrizione": "NASTRO PULPER 6",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.D",
+        "utenza": "UT.72"
+    },
+    {
+        "descrizione": "TAMBURO ASSORTITORE 1 PULPER 6 OSCILLATORE",
+        "cabina": "CAB.14",
+        "quadro": "Q.G",
+        "sezione": "S.1",
+        "utenza": "UT.3"
+    },
+    {
+        "descrizione": "TAMBURO ASSORTITORE 2 PULPER 6 OSCILLATORE",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.1",
+        "utenza": "UT.2"
+    },
+    {
+        "descrizione": "POMPA PRESSIONE ACQUA CICLONI",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.8",
+        "utenza": "UT.38"
+    },
+    {
+        "descrizione": "PARANCO RAFFINAZIONE",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.A",
+        "utenza": "UT.120"
+    },
+    {
+        "descrizione": "POMPA PREMISTOPPA ACQUA CHEMIBA",
+        "cabina": "CAB.14",
+        "quadro": "Q.G",
+        "sezione": "S.1",
+        "utenza": "UT.18"
+    },
+    {
+        "descrizione": "POMPA RECUPERO ACQUA PRESSE SCARTI",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.I",
+        "utenza": "UT.9"
+    },
+    {
+        "descrizione": "POMPA ACQUA SABBIERE",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.I",
+        "utenza": "UT.10"
+    },
+    {
+        "descrizione": "POMPA OLIO PULPER 6",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.D",
+        "utenza": "UT.76"
+    },
+    {
+        "descrizione": "POMPA PREMISTOPPA DEFIBRETOR",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.D",
+        "utenza": "UT.132"
+    },
+    {
+        "descrizione": "POMPA PREMISTOPPA NORD",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.2",
+        "utenza": "UT.35"
+    },
+    {
+        "descrizione": "POMPA 1 PULPER 6",
+        "cabina": "CAB.14",
+        "quadro": "Q.G",
+        "sezione": "S.2",
+        "utenza": "UT.24"
+    },
+    {
+        "descrizione": "POMPA 2 PULPER 6",
+        "cabina": "CAB.14",
+        "quadro": "Q.G",
+        "sezione": "S.2",
+        "utenza": "UT.25"
+    },
+    {
+        "descrizione": "POMPA TINA 4",
+        "cabina": "CAB.14",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "POMPA TINA 5",
+        "cabina": "CAB.14",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "POMPA TINA 27",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.7",
+        "utenza": "UT.14"
+    },
+    {
+        "descrizione": "POMPA TINA 28",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.H",
+        "utenza": "UT.10"
+    },
+    {
+        "descrizione": "POMPA TINA 30",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.4",
+        "utenza": "UT.31"
+    },
+    {
+        "descrizione": "POMPA TINA 35",
+        "cabina": "CAB.14",
+        "quadro": "Q.G",
+        "sezione": "S.9",
+        "utenza": "UT.15"
+    },
+    {
+        "descrizione": "POMPA TINA 36",
+        "cabina": "CAB.14",
+        "quadro": "Q.H",
+        "sezione": "S.1",
+        "utenza": "UT.10"
+    },
+    {
+        "descrizione": "POMPA TINA 37",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.N",
+        "utenza": "UT.80"
+    },
+    {
+        "descrizione": "POMPA TINA 38 SUD",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.B",
+        "utenza": "UT.50"
+    },
+    {
+        "descrizione": "POMPA TINA 39",
+        "cabina": "CAB.14",
+        "quadro": "Q.G",
+        "sezione": "S.8",
+        "utenza": "UT.16"
+    },
+    {
+        "descrizione": "POMPA 1 TINA 40 NORD",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.B",
+        "utenza": "UT.93"
+    },
+    {
+        "descrizione": "POMPA 2 TINA 40 SUD",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.4",
+        "utenza": "UT.33"
+    },
+    {
+        "descrizione": "POMPA TINA 43",
+        "cabina": "CAB.14",
+        "quadro": "Q.G",
+        "sezione": "S.1",
+        "utenza": "UT.23"
+    },
+    {
+        "descrizione": "POMPA 1 TINA 44",
+        "cabina": "CAB.14",
+        "quadro": "Q.G",
+        "sezione": "S.1",
+        "utenza": "UT.19"
+    },
+    {
+        "descrizione": "POMPA 2 TINA 44",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.1",
+        "utenza": "UT.37"
+    },
+    {
+        "descrizione": "POMPA TINA 45",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.2",
+        "utenza": "UT.9"
+    },
+    {
+        "descrizione": "POMPA TINA 53",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.1",
+        "utenza": "UT.26"
+    },
+    {
+        "descrizione": "POMPA TINELLO 56",
+        "cabina": "CAB.14",
+        "quadro": "Q.H",
+        "sezione": "S.8",
+        "utenza": "UT.19"
+    },
+    {
+        "descrizione": "POMPA 1 TINA 69",
+        "cabina": "CAB.14",
+        "quadro": "Q.H",
+        "sezione": "S.1",
+        "utenza": "UT.12"
+    },
+    {
+        "descrizione": "POMPA 2 TINA 69",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.2",
+        "utenza": "UT.34"
+    },
+    {
+        "descrizione": "QUADRO OLIO RIDUTTORE PULPER 6",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.F",
+        "utenza": "UT.12"
+    },
+    {
+        "descrizione": "RAFFINATORE 9 PM1",
+        "cabina": "CAB.14",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "RAFFINATORE 10 PM1",
+        "cabina": "CAB.14",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "RAFFINATORE 12 PM1",
+        "cabina": "CAB.14",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "REJERSORTER LINEA 4",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.5",
+        "utenza": "UT.12"
+    },
+    {
+        "descrizione": "REJERSORTER LINEA 5",
+        "cabina": "CAB.14",
+        "quadro": "Q.G",
+        "sezione": "S.3",
+        "utenza": "UT.11"
+    },
+    {
+        "descrizione": "REJECT DRIVER",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.H",
+        "utenza": "UT.2"
+    },
+    {
+        "descrizione": "T 6 2 RETRO 2.1",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.4",
+        "utenza": "UT.32"
+    },
+    {
+        "descrizione": "T 6 2 COPERTINA 2.1",
+        "cabina": "CAB.14",
+        "quadro": "Q.H",
+        "sezione": "S.4",
+        "utenza": "UT.15"
+    },
+    {
+        "descrizione": "T 6 3 COPERTINA 3.1",
+        "cabina": "CAB.14",
+        "quadro": "Q.H",
+        "sezione": "S.5",
+        "utenza": "UT.11"
+    },
+    {
+        "descrizione": "T 6 RETRO 3.1",
+        "cabina": "CAB.14",
+        "quadro": "Q.H",
+        "sezione": "S.4",
+        "utenza": "UT.14"
+    },
+    {
+        "descrizione": "T 9 COPERTINA 1.1",
+        "cabina": "CAB.14",
+        "quadro": "Q.H",
+        "sezione": "S.4",
+        "utenza": "UT.13"
+    },
+    {
+        "descrizione": "T 9 RETRO 1.1",
+        "cabina": "CAB.14",
+        "quadro": "Q.G",
+        "sezione": "S.4",
+        "utenza": "UT.13"
+    },
+    {
+        "descrizione": "TAMBURO ASSORTITORE PULPER 6",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.1",
+        "utenza": "UT.2"
+    },
+    {
+        "descrizione": "TUBONE POMPA ACQUEDOTTO INDUTRIALE",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.N",
+        "utenza": "UT.72"
+    },
+    {
+        "descrizione": "VENTILATORE RAFFREDDAMENTO OLIO PULPER 6",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.D",
+        "utenza": "UT.91"
+    },
+    {
+        "descrizione": "VENTILATORE CABINA TRAFO",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.M",
+        "utenza": "UT.32"
+    },
+    {
+        "descrizione": "VENTILATORE CABINA 14",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.A",
+        "utenza": "UT.121"
+    },
+    {
+        "descrizione": "VENTILATORE SALA RAFFINAZIONE",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.1",
+        "utenza": "UT.28"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 380V QUADRO RAGGER PULPER 6",
+        "cabina": "CAB.14",
+        "quadro": "Q.F",
+        "sezione": "S.1",
+        "utenza": "UT.39"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO BOBINOVIA PRODOTTO FINITO",
+        "cabina": "CAB.14",
+        "quadro": "Q.G",
+        "sezione": "S.6",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "POMPA PREMISTOPPA SUD",
+        "cabina": "CAB.14",
+        "quadro": "Q.H",
+        "sezione": "S.1",
+        "utenza": "UT.16"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE RIFASAMENTO",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.A",
+        "utenza": "UT.201"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO FILTRO ACQUEDOTTO",
+        "cabina": "",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "INDUSTRIALE",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.N",
+        "utenza": "UT.78"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO SPINGIDISCHI RAFFINAZIONE",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.N",
+        "utenza": "UT.77"
+    },
+    {
+        "descrizione": "CARROPONTE SEPTAC (FUORI SERVIZIO)",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.O",
+        "utenza": "UT.41"
+    },
+    {
+        "descrizione": "AGITATORE COMBISORTER 1 3 VADI 1 3",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.B",
+        "utenza": "UT.94"
+    },
+    {
+        "descrizione": "AGITATORE COMBISORTER 4 5 VADI 4 5",
+        "cabina": "CAB.14",
+        "quadro": "Q.7",
+        "sezione": "S.O",
+        "utenza": "UT.42"
+    },
+    {
+        "descrizione": "QUADRO ECOVAR EIL",
+        "cabina": "CAB.15",
+        "quadro": "Q. ICET",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE IMPIANTO SOREMA",
+        "cabina": "CAB.15",
+        "quadro": "Q. ICET",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO 6",
+        "cabina": "CAB.15",
+        "quadro": "Q. ICET",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO SIZE PRESS CABINA 18",
+        "cabina": "CAB.15",
+        "quadro": "Q. ICET",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO TELETTA FANGHI",
+        "cabina": "CAB.15",
+        "quadro": "Q. SEEI",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA 2° STADIO CELLECO",
+        "cabina": "CAB.15",
+        "quadro": "Q. SEEI",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA 3° STADIO CELLECO",
+        "cabina": "CAB.15",
+        "quadro": "Q. SEEI",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA 4° STADIO CELLECO",
+        "cabina": "CAB.15",
+        "quadro": "Q. SEEI",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA 1 ALTA PRESSIONE",
+        "cabina": "CAB.15",
+        "quadro": "Q. SEEI",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA 3 VUOTO",
+        "cabina": "CAB.15",
+        "quadro": "Q. SEEI",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "DEFLAKER",
+        "cabina": "CAB.15",
+        "quadro": "Q. SEEI",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "QUADRO FORMACODA LUPERINI",
+        "cabina": "CAB.17",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "POMPA 1 LUBRIFICAZIONE DUO SHAKER",
+        "cabina": "CAB.17",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "POMPA 1 LUBRIFICAZIONE DUO SHAKER",
+        "cabina": "CAB.17",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "RISCALDATORE DUO SHAKER",
+        "cabina": "CAB.17",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "OSCILLAZIONE RASCHIA DUO SHAKER",
+        "cabina": "CAB.17",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "TENDIFELTRO DUO SHAKER",
+        "cabina": "CAB.17",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "QUADRO LAVAGGI PM1",
+        "cabina": "CAB.17",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "CILINDRO ASPIRANTE TELA M 01",
+        "cabina": "CAB.17",
+        "quadro": "Q.A",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "COMANDO TELA M 02",
+        "cabina": "CAB.17",
+        "quadro": "Q.A",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "CAPO TELA M 04",
+        "cabina": "CAB.17",
+        "quadro": "Q.A",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "CAPO TELINO M 05",
+        "cabina": "CAB.17",
+        "quadro": "Q.A",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "ACCOPPIATORE M 06",
+        "cabina": "CAB.17",
+        "quadro": "Q.A",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "FAN PUMP PRIMARIA M 25",
+        "cabina": "CAB.17",
+        "quadro": "Q.A",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "1° STADIO CELLECO M 27",
+        "cabina": "CAB.17",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO TENDIFELTRO SECCHERIA E SIZE",
+        "cabina": "CAB.17",
+        "quadro": "Q.B",
+        "sezione": "S.",
+        "utenza": "UT.01"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO MOTORI AUX E PLC",
+        "cabina": "CAB.17",
+        "quadro": "Q.B",
+        "sezione": "S.",
+        "utenza": "UT.02"
+    },
+    {
+        "descrizione": "PRIMA PRESSA UNIPRESS M 07",
+        "cabina": "CAB.17",
+        "quadro": "Q.B",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "SECONDA PRESSA MASTER JUMBO M 08A",
+        "cabina": "CAB.17",
+        "quadro": "Q.B",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "SECONDA PRESSA SLAVE M 08B",
+        "cabina": "CAB.17",
+        "quadro": "Q.B",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "RULLOGOBBO POPE (RISERVA)",
+        "cabina": "CAB.17",
+        "quadro": "Q.C",
+        "sezione": "S.",
+        "utenza": "UT.09"
+    },
+    {
+        "descrizione": "PRIMA SECCHERIA M 11",
+        "cabina": "CAB.17",
+        "quadro": "Q.C",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "SECONDA SECCHERIA M 12",
+        "cabina": "CAB.17",
+        "quadro": "Q.C",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "TERZA SECCHERIA M 13",
+        "cabina": "CAB.17",
+        "quadro": "Q.C",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "QUARTA SECCHERIA M 14",
+        "cabina": "CAB.17",
+        "quadro": "Q.C",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "SIZE PRESS CILINDRO FISSO SLAVE M 16",
+        "cabina": "CAB.17",
+        "quadro": "Q.C",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "SIZE PRESS CILINDRO MOBILE MASTER M 17",
+        "cabina": "CAB.17",
+        "quadro": "Q.C",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "RULLO GOBBO M 18",
+        "cabina": "CAB.17",
+        "quadro": "Q.C",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "CILINDRO TEFLONATO M19",
+        "cabina": "CAB.17",
+        "quadro": "Q.C",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "QUINTA SECCHERIA MASTER M20",
+        "cabina": "CAB.17",
+        "quadro": "Q.C",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "QUINTA SECCHERIA SLAVE M 21",
+        "cabina": "CAB.17",
+        "quadro": "Q.C",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "LISCIA INFERIORE MASTER M 22A",
+        "cabina": "CAB.17",
+        "quadro": "Q.C",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "LISCIA INFERIORE SLAVE M 22B",
+        "cabina": "CAB.17",
+        "quadro": "Q.C",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "LANCIO TAMBURI M 23",
+        "cabina": "CAB.17",
+        "quadro": "Q.C",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "POPE M 24",
+        "cabina": "CAB.17",
+        "quadro": "Q.C",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "FAN PUMP SECONDARIA M 26",
+        "cabina": "CAB.17",
+        "quadro": "Q.C",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "VENTILATORE MOTORI CC",
+        "cabina": "CAB.17",
+        "quadro": "Q.M.AUX",
+        "sezione": "S.",
+        "utenza": "UT.3QF1"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO VENTILATORI SALA C17",
+        "cabina": "CAB.17",
+        "quadro": "Q.M.AUX",
+        "sezione": "S.",
+        "utenza": "UT.4QF1"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO CENTRALINA GRASSO",
+        "cabina": "CAB.17",
+        "quadro": "Q.M.AUX",
+        "sezione": "S.",
+        "utenza": "UT.4QF2"
+    },
+    {
+        "descrizione": "POMPA OLIO RIDUTTORE COMANDO TELA",
+        "cabina": "CAB.17",
+        "quadro": "Q.M.AUX",
+        "sezione": "S.",
+        "utenza": "UT.4QF3"
+    },
+    {
+        "descrizione": "POMPA OLIO RIDUTTORE PRIMA PRESSA",
+        "cabina": "CAB.17",
+        "quadro": "Q.M.AUX",
+        "sezione": "S.",
+        "utenza": "UT.4QF4"
+    },
+    {
+        "descrizione": "POMPA OLIO RIDUTTORE SECONDA PRESSA INFERIORE",
+        "cabina": "CAB.17",
+        "quadro": "Q.M.AUX",
+        "sezione": "S.",
+        "utenza": "UT.4QF5"
+    },
+    {
+        "descrizione": "POMPA OLIO RIDUTTORE SECONDA PRESSA SUPERIORE",
+        "cabina": "CAB.17",
+        "quadro": "Q.M.AUX",
+        "sezione": "S.",
+        "utenza": "UT.5QF1"
+    },
+    {
+        "descrizione": "POMPA OLIO RIDUTTORE TELINO",
+        "cabina": "CAB.17",
+        "quadro": "Q.M.AUX",
+        "sezione": "S.",
+        "utenza": "UT.5QF2"
+    },
+    {
+        "descrizione": "POMPA OLIO RIDUTTORE FAN PUMP PRIMARIA",
+        "cabina": "CAB.17",
+        "quadro": "Q.M.AUX",
+        "sezione": "S.",
+        "utenza": "UT.5QF3"
+    },
+    {
+        "descrizione": "POMPA OLIO RIDUTTORE PRIMO STADIO CELLECO",
+        "cabina": "CAB.17",
+        "quadro": "Q.M.AUX",
+        "sezione": "S.",
+        "utenza": "UT.6QF1"
+    },
+    {
+        "descrizione": "POMPA OLIO RIDUTTORE PRIMA BATTERIA",
+        "cabina": "CAB.17",
+        "quadro": "Q.M.AUX",
+        "sezione": "S.",
+        "utenza": "UT.6QF2"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO FORMACODA LUPERINI",
+        "cabina": "CAB.17",
+        "quadro": "Q.M.AUX",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "M 1",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "M 2 FUMANA 2",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "M 3 FUMANA 3",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "M 4 FUMANA 4",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "M 5",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "M 10",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "M 11",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "M 12",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "M 13",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "M 20",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "M 21",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "M 22",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "M 23",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "M 24",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "M 25",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "M 33",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "M 34",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "M 41",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "M 42",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "M 50",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "M 100",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "M 101",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "NASTRO PULPER SIZE",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "POMPA 2 REG DENSITA DA TINA 54 53",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.11",
+        "utenza": "UT.9"
+    },
+    {
+        "descrizione": "POMPA RECUPERO ALTO VUOTO TELA",
+        "cabina": "CAB.18",
+        "quadro": "Q.2",
+        "sezione": "S.7",
+        "utenza": "UT.9"
+    },
+    {
+        "descrizione": "POMPA ALIMENTAZIONE SELECTIFIRE 3 COPERTINA SCARTI",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.7",
+        "utenza": "UT.23"
+    },
+    {
+        "descrizione": "POMPA SOLIDI COPERTINA",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.11",
+        "utenza": "UT.46"
+    },
+    {
+        "descrizione": "POMPA SOLIDI RETRO",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.11",
+        "utenza": "UT.45"
+    },
+    {
+        "descrizione": "POMPA RECUPERO TROPPO PIENO TELINO P.T. 47",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.12",
+        "utenza": "UT.19"
+    },
+    {
+        "descrizione": "POMPA 1 DILUIZIONE TINA 54 55",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.8",
+        "utenza": "UT.13"
+    },
+    {
+        "descrizione": "POMPA 1 LUBRIFICAZIONE CILINDRO ASPIRANTE",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.9",
+        "utenza": "UT.31"
+    },
+    {
+        "descrizione": "POMPA 1 PARETO COPERTINA",
+        "cabina": "CAB.18",
+        "quadro": "Q.2",
+        "sezione": "S.3",
+        "utenza": "UT.2A"
+    },
+    {
+        "descrizione": "POMPA 1 PISCINO FORMACODA",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.16",
+        "utenza": "UT.47"
+    },
+    {
+        "descrizione": "POMPA 1° STADIO NOSS COPERTINA",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.2",
+        "utenza": "UT.1"
+    },
+    {
+        "descrizione": "POMPA 2 REINTEGNRO DA TINA 54 55",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.12",
+        "utenza": "UT.18"
+    },
+    {
+        "descrizione": "POMPA 2 LUBRIFICAZIONE CILINDRO ASPIRANTE",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.9",
+        "utenza": "UT.32"
+    },
+    {
+        "descrizione": "POMPA 2 PARETO RETRO",
+        "cabina": "CAB.18",
+        "quadro": "Q.2",
+        "sezione": "S.3",
+        "utenza": "UT.2B"
+    },
+    {
+        "descrizione": "POMPA 2° STADIO NOSS COPERTINA",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.15",
+        "utenza": "UT.3"
+    },
+    {
+        "descrizione": "POMPA 3° STADIO NOSS COPERTINA",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.3",
+        "utenza": "UT.25"
+    },
+    {
+        "descrizione": "POMPA VUOTO 5",
+        "cabina": "CAB.18",
+        "quadro": "Q.2",
+        "sezione": "S.10",
+        "utenza": "UT.4"
+    },
+    {
+        "descrizione": "POMPA VUOTO 6",
+        "cabina": "CAB.18",
+        "quadro": "Q.2",
+        "sezione": "S.2",
+        "utenza": "UT.1"
+    },
+    {
+        "descrizione": "POMPA VUOTO 7",
+        "cabina": "CAB.18",
+        "quadro": "Q.2",
+        "sezione": "S.11",
+        "utenza": "UT.3"
+    },
+    {
+        "descrizione": "POMPA ALIMENTO SELECTIFIRE 4",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.13",
+        "utenza": "UT.7"
+    },
+    {
+        "descrizione": "POMPA ALTA PRESSIONE 3",
+        "cabina": "CAB.18",
+        "quadro": "Q.2",
+        "sezione": "S.8",
+        "utenza": "UT.11"
+    },
+    {
+        "descrizione": "POMPA ALTA PRESSIONE PICCOLA",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.15",
+        "utenza": "UT.16"
+    },
+    {
+        "descrizione": "POMPA TINA 72 GROSSA",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.10",
+        "utenza": "UT.11"
+    },
+    {
+        "descrizione": "POMPA TINA 72 PICCOLA DILUIZIONE PULP FM",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.4",
+        "utenza": "UT.14"
+    },
+    {
+        "descrizione": "POMPA DILUIZIONE NOSS",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.7",
+        "utenza": "UT.33"
+    },
+    {
+        "descrizione": "POMPA PULPER SIZE PRESS",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "POMPA RECUPERO ACQUE CHIARE 1 SUD",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.15",
+        "utenza": "UT.28"
+    },
+    {
+        "descrizione": "POMPA RECUPERO ACQUE CHIARE 2 NORD",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.14",
+        "utenza": "UT.29"
+    },
+    {
+        "descrizione": "POMPA RECUPERO ALTO VUOTO TELINO COPERTINA",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.10",
+        "utenza": "UT.21"
+    },
+    {
+        "descrizione": "POMPA RECUPERO ACQUA FELTRO JUMBO",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.8",
+        "utenza": "UT.35"
+    },
+    {
+        "descrizione": "POMPA RIFILI GROSSA SPAPPOLATORE",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.6",
+        "utenza": "UT.10"
+    },
+    {
+        "descrizione": "POMPA RIFILI PICCOLA SPAPPOLATORE",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.6",
+        "utenza": "UT.22"
+    },
+    {
+        "descrizione": "POMPA SCARTI SELECTIFIRE RETRO",
+        "cabina": "CAB.18",
+        "quadro": "Q.2",
+        "sezione": "S.6",
+        "utenza": "UT.8"
+    },
+    {
+        "descrizione": "POMPA 2 SPRUZZI TELA PM1 PM2",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.5",
+        "utenza": "UT.15"
+    },
+    {
+        "descrizione": "POMPA TINA 51",
+        "cabina": "CAB.18",
+        "quadro": "Q.2",
+        "sezione": "S.5",
+        "utenza": "UT.5"
+    },
+    {
+        "descrizione": "POMPA TINA 52 COPERTINA",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.17",
+        "utenza": "UT.2"
+    },
+    {
+        "descrizione": "PULPER 1 SIZE PRESS",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "PULPER 2 SIZE PRESS",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "RULLO FORATO 1 CASSA COPERTINA",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.9",
+        "utenza": "UT.36"
+    },
+    {
+        "descrizione": "RULLO FORATO 2 CASSA COPERTINA",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.9",
+        "utenza": "UT.37"
+    },
+    {
+        "descrizione": "RULLO FORATO 3 CASSA PRIMARIA",
+        "cabina": "CAB.18",
+        "quadro": "Q.2",
+        "sezione": "S.4",
+        "utenza": "UT.13"
+    },
+    {
+        "descrizione": "RULLO FORATO 4 CASSA PRIMARIA",
+        "cabina": "CAB.18",
+        "quadro": "Q.2",
+        "sezione": "S.4",
+        "utenza": "UT.14"
+    },
+    {
+        "descrizione": "SELECTIFIRE 1 RETRO 30 PV",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.14",
+        "utenza": "UT.6"
+    },
+    {
+        "descrizione": "SELECTIFIRE 1 COPERTINA 30 PV",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.7",
+        "utenza": "UT.12"
+    },
+    {
+        "descrizione": "SELECTIFIRE 2 RETRO 30 PV",
+        "cabina": "CAB.18",
+        "quadro": "Q.2",
+        "sezione": "S.6",
+        "utenza": "UT.6"
+    },
+    {
+        "descrizione": "SELECTIFIRE 3 COPERTINA SCARTI 12 PV",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.13",
+        "utenza": "UT.18"
+    },
+    {
+        "descrizione": "SELECTIFIRE 3 RETRO 30 PV",
+        "cabina": "CAB.18",
+        "quadro": "Q.2",
+        "sezione": "S.8",
+        "utenza": "UT.22"
+    },
+    {
+        "descrizione": "SELECTIFIRE 4 RETRO SCARTI 24 PV",
+        "cabina": "CAB.18",
+        "quadro": "Q.2",
+        "sezione": "S.5",
+        "utenza": "UT.7"
+    },
+    {
+        "descrizione": "SPRUZZO 1 C.A.P. CASSA AFFLUSSO PRIMARIA",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.5",
+        "utenza": "UT.18"
+    },
+    {
+        "descrizione": "SPRUZZO 2 C.A.P. CASSA AFFLUSSO PRIMARIA",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.5",
+        "utenza": "UT.19"
+    },
+    {
+        "descrizione": "SPRUZZO 3 C.A.P. CASSA AFFLUSSO PRIMARIA",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.6",
+        "utenza": "UT.20"
+    },
+    {
+        "descrizione": "SPRUZZO 4 C.A.P. CASSA AFFLUSSO PRIMARIA",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.6",
+        "utenza": "UT.21"
+    },
+    {
+        "descrizione": "TORRINO ESTRAZIONE 1",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT.26"
+    },
+    {
+        "descrizione": "TORRINO ESTRAZIONE 2",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT.27"
+    },
+    {
+        "descrizione": "TORRINO ESTRAZIONE 3",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT.28"
+    },
+    {
+        "descrizione": "TORRINO ESTRAZIONE 4",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT.29"
+    },
+    {
+        "descrizione": "VENTILATORE BASSO VUOTO EST",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.",
+        "utenza": "UT.24"
+    },
+    {
+        "descrizione": "VENTILATORE BASSO VUOTO OVEST",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.",
+        "utenza": "UT.17"
+    },
+    {
+        "descrizione": "AGITATORE TINA 51",
+        "cabina": "CAB.18",
+        "quadro": "Q.2",
+        "sezione": "S.7",
+        "utenza": "UT.10"
+    },
+    {
+        "descrizione": "AGITATORE TINA 52",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.11",
+        "utenza": "UT.20"
+    },
+    {
+        "descrizione": "ACQUATROLL QUADRO CONDENSE",
+        "cabina": "CAB.18",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "ASPIRARIONE CASSA DEVRON",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.9",
+        "utenza": "UT.30"
+    },
+    {
+        "descrizione": "BECCO ORIZZONTALE CAP RETRO CASSA AFFLUSSO",
+        "cabina": "",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "PRIMARIA",
+        "cabina": "CAB.18",
+        "quadro": "Q.2",
+        "sezione": "S.9",
+        "utenza": "UT.16"
+    },
+    {
+        "descrizione": "BECCO ORIZZONTALE CAS COPERTINA CASSA AFFLUSSO",
+        "cabina": "",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "SECONDARIA",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.10",
+        "utenza": "UT.39"
+    },
+    {
+        "descrizione": "BECCO VERTICALE CAP RETRO CASSA AFFLUSSO PRIMARIA",
+        "cabina": "CAB.18",
+        "quadro": "Q.2",
+        "sezione": "S.9",
+        "utenza": "UT.15"
+    },
+    {
+        "descrizione": "BECCO VERTICALE CAS COPERTINA CASSA AFFLUSSO",
+        "cabina": "",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "SECONDARIA",
+        "cabina": "CAB.18",
+        "quadro": "Q.3",
+        "sezione": "S.10",
+        "utenza": "UT.38"
+    },
+    {
+        "descrizione": "",
+        "cabina": "CAB.",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "OSCILLATORE TAMBURO ASSORTITORE PULPER 2",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.9",
+        "utenza": "UT.9"
+    },
+    {
+        "descrizione": "OSCILLATORE TAMBURO ASSORTITORE PULPER 3",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.7",
+        "utenza": "UT.14"
+    },
+    {
+        "descrizione": "OSCILLATORE TAMBURO ASSORTITORE PULPER 4",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.9",
+        "utenza": "UT.12"
+    },
+    {
+        "descrizione": "POMPA SENTINA VANO POMPE FOSSA PULPER",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.7",
+        "utenza": "UT.21"
+    },
+    {
+        "descrizione": "POMPA OLIO TRAVASO CENTRALINA 346T PRESSA SCARPA",
+        "cabina": "CAB.20",
+        "quadro": "Q.A",
+        "sezione": "S.3",
+        "utenza": "UT.24"
+    },
+    {
+        "descrizione": "POMPA ALIMENTAZIONE SELECTIFIRE SCARTI COPERTINA 12",
+        "cabina": "",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "PV",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.7",
+        "utenza": "UT.53"
+    },
+    {
+        "descrizione": "POMPA RECUPERO ACQUA CENTRALINA CC ROLL",
+        "cabina": "CAB.20",
+        "quadro": "Q.",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "1° STADIO VOITH COPERTINA",
+        "cabina": "CAB.20",
+        "quadro": "Q.B",
+        "sezione": "S.2",
+        "utenza": "UT.15"
+    },
+    {
+        "descrizione": "2° STADIO NOSS RETRO",
+        "cabina": "CAB.20",
+        "quadro": "Q.6C",
+        "sezione": "S.",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "2° STADIO VOITH COPERTINA",
+        "cabina": "CAB.20",
+        "quadro": "Q.B",
+        "sezione": "S.4",
+        "utenza": "UT.19"
+    },
+    {
+        "descrizione": "3º STADIO NOSS RETRO",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.6",
+        "utenza": "UT.1"
+    },
+    {
+        "descrizione": "3º STADIO VOITH COPERTINA",
+        "cabina": "CAB.20",
+        "quadro": "Q.B",
+        "sezione": "S.3",
+        "utenza": "UT.6"
+    },
+    {
+        "descrizione": "4° STADIO NOSS RETRO",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.6",
+        "utenza": "UT.50"
+    },
+    {
+        "descrizione": "4° STADIO VOITH COPERTINA",
+        "cabina": "CAB.20",
+        "quadro": "Q.B",
+        "sezione": "S.3",
+        "utenza": "UT.21"
+    },
+    {
+        "descrizione": "POMPA ABBATTIFOGLIO PM1",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.3",
+        "utenza": "UT.59"
+    },
+    {
+        "descrizione": "POMPA ACQUA AI PULPER DA TINA 21",
+        "cabina": "CAB.20",
+        "quadro": "Q.A",
+        "sezione": "S.6",
+        "utenza": "UT.21"
+    },
+    {
+        "descrizione": "POMPA ACQUA PULIZIE",
+        "cabina": "CAB.20",
+        "quadro": "Q.3",
+        "sezione": "S.10",
+        "utenza": "UT.14"
+    },
+    {
+        "descrizione": "POMPA ALTA PRESSIONE 4",
+        "cabina": "CAB.20",
+        "quadro": "Q.B",
+        "sezione": "S.5",
+        "utenza": "UT.11"
+    },
+    {
+        "descrizione": "POMPA ACQUA CONDIZIONAMENTO VAPORECASSA",
+        "cabina": "",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "DEVRON",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.11",
+        "utenza": "UT.29"
+    },
+    {
+        "descrizione": "POMPA CONDENSE 1 SEPARATORE 4",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.11",
+        "utenza": "UT.20"
+    },
+    {
+        "descrizione": "POMPA CONSISTENZA PULPER 5",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.8",
+        "utenza": "UT.23"
+    },
+    {
+        "descrizione": "POMPA CONTROLLO RITENZIONE SOLIDI COPERTINA",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.12",
+        "utenza": "UT.14"
+    },
+    {
+        "descrizione": "POMPA CONTROLLO RITENZIONE SOLIDI RETRO",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.12",
+        "utenza": "UT.13"
+    },
+    {
+        "descrizione": "POMPA DA BARILOTTO A ELEPHANT ALIMENTO ELEPHANT INVERTER",
+        "cabina": "CAB.20",
+        "quadro": "Q.B",
+        "sezione": "S.5",
+        "utenza": "UT.24"
+    },
+    {
+        "descrizione": "POMPA DILUIZIONE SUNDS DA TINA 15",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.4",
+        "utenza": "UT.7"
+    },
+    {
+        "descrizione": "POMPA DILUIZIONE PULPER SPAPPOLATORI DA TINA 15",
+        "cabina": "CAB.20",
+        "quadro": "Q.3",
+        "sezione": "S.8",
+        "utenza": "UT.11"
+    },
+    {
+        "descrizione": "POMPA DILUIZIONE 1 SUD TINA 21 DA TINA 55",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.3",
+        "utenza": "UT.29"
+    },
+    {
+        "descrizione": "POMPA DILUIZIONE 2 NORD TINA 21 DA TINA 55",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.3",
+        "utenza": "UT.30"
+    },
+    {
+        "descrizione": "POMPA DILUIZIONE COPERTINA CLINEX VOITH",
+        "cabina": "CAB.20",
+        "quadro": "Q.B",
+        "sezione": "S.4",
+        "utenza": "UT.1"
+    },
+    {
+        "descrizione": "POMPA DILUIZIONE PULPER PM2 VASCA RIFILI",
+        "cabina": "CAB.20",
+        "quadro": "Q.6B",
+        "sezione": "S.2",
+        "utenza": "UT."
+    },
+    {
+        "descrizione": "POMPA 1 DILUIZIONE DA TINA 72 PM2 POMPA 1 PARETO",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.9",
+        "utenza": "UT.20"
+    },
+    {
+        "descrizione": "POMPA 2 DILUIZIONE DA TINA 72 PM2 POMPA 2 PARETO",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.9",
+        "utenza": "UT.21"
+    },
+    {
+        "descrizione": "POMPA 1 FOSSA PULPER EST",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.8",
+        "utenza": "UT.17"
+    },
+    {
+        "descrizione": "POMPA 2 FOSSA PULPER OVEST",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.7",
+        "utenza": "UT.18"
+    },
+    {
+        "descrizione": "POMPA 1 REINTEGRO TINA 55",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.2",
+        "utenza": "UT.48"
+    },
+    {
+        "descrizione": "POMPA LAVAGGI ACQUE SCURE",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.2",
+        "utenza": "UT.52"
+    },
+    {
+        "descrizione": "POMPA OLIO RIDUTTORE PULPER 1",
+        "cabina": "CAB.20",
+        "quadro": "Q.3",
+        "sezione": "S.9",
+        "utenza": "UT.28"
+    },
+    {
+        "descrizione": "POMPA OLIO RIDUTTORE PULPER 2",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.10",
+        "utenza": "UT.25"
+    },
+    {
+        "descrizione": "POMPA OLIO RIDUTTORE PULPER 4",
+        "cabina": "CAB.20",
+        "quadro": "Q.3B",
+        "sezione": "S.2",
+        "utenza": "UT.10"
+    },
+    {
+        "descrizione": "POMPA OLIO RIDUTTORE PULPER 5",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.8",
+        "utenza": "UT.11"
+    },
+    {
+        "descrizione": "POMPA 2 PISCINI EST",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.9",
+        "utenza": "UT.43"
+    },
+    {
+        "descrizione": "POMPA 3 PISCINI",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.12",
+        "utenza": "UT.24"
+    },
+    {
+        "descrizione": "POMPA 1 PREMISTOPPA",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.8",
+        "utenza": "UT.10"
+    },
+    {
+        "descrizione": "POMPA PULPER 1",
+        "cabina": "CAB.20",
+        "quadro": "Q.3",
+        "sezione": "S.3",
+        "utenza": "UT.20"
+    },
+    {
+        "descrizione": "POMPA PULPER 2",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.8",
+        "utenza": "UT.15"
+    },
+    {
+        "descrizione": "POMPA PULPER 4",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.7",
+        "utenza": "UT.31"
+    },
+    {
+        "descrizione": "POMPA 1 PULPER 5",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.1",
+        "utenza": "UT.2"
+    },
+    {
+        "descrizione": "POMPA 2 PULPER 5",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.2",
+        "utenza": "UT.3"
+    },
+    {
+        "descrizione": "POMPA RECUPERO SCARTI SELECTIFIRE",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.7",
+        "utenza": "UT.21"
+    },
+    {
+        "descrizione": "POMPA RECUPERO ALTO VUOTO TELINO COPERTINA",
+        "cabina": "CAB.20",
+        "quadro": "Q.A",
+        "sezione": "S.5",
+        "utenza": "UT.18"
+    },
+    {
+        "descrizione": "POMPA RIFILI GROSSA",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.5",
+        "utenza": "UT.38"
+    },
+    {
+        "descrizione": "POMPA RIFILI PICCOLA",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.5",
+        "utenza": "UT.39"
+    },
+    {
+        "descrizione": "POMPA 1 REGOLATORI DI DENSITA DA TINA 55",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.7",
+        "utenza": "UT.54"
+    },
+    {
+        "descrizione": "POMPA ACQUA REGOLATORE DI DENSITA DA TINA 21",
+        "cabina": "CAB.20",
+        "quadro": "Q.B",
+        "sezione": "S.4",
+        "utenza": "UT.7"
+    },
+    {
+        "descrizione": "POMPA RILANCIO ACQUE BIANCHE",
+        "cabina": "CAB.20",
+        "quadro": "Q.A",
+        "sezione": "S.3",
+        "utenza": "UT.11"
+    },
+    {
+        "descrizione": "POMPA RILANCIO DA V2 1",
+        "cabina": "CAB.20",
+        "quadro": "Q.6B",
+        "sezione": "S.1",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA RILANCIO DA V2 2",
+        "cabina": "CAB.20",
+        "quadro": "Q.6B",
+        "sezione": "S.1",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA 1 SPRUZZI ROTANTI PM1",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.10",
+        "utenza": "UT.68"
+    },
+    {
+        "descrizione": "POMPA 2 SPRUZZI ROTANTI PM1",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.10",
+        "utenza": "UT.67"
+    },
+    {
+        "descrizione": "POMPA 1 SPRUZZI TELA PM1 E PM2",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.2",
+        "utenza": "UT.49"
+    },
+    {
+        "descrizione": "POMPA TINA 1",
+        "cabina": "CAB.20",
+        "quadro": "Q.A",
+        "sezione": "S.2",
+        "utenza": "UT.2"
+    },
+    {
+        "descrizione": "POMPA TINA3",
+        "cabina": "CAB.20",
+        "quadro": "Q.A",
+        "sezione": "S.2",
+        "utenza": "UT.10"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO PRESSA FANGHI SLUDGE",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.7",
+        "utenza": "UT.12"
+    },
+    {
+        "descrizione": "POMPA TINA 12",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.5",
+        "utenza": "UT.2"
+    },
+    {
+        "descrizione": "POMPA TINA 13",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.2",
+        "utenza": "UT.20"
+    },
+    {
+        "descrizione": "POMPA TINA 14",
+        "cabina": "CAB.20",
+        "quadro": "Q.3B",
+        "sezione": "S.4",
+        "utenza": "UT.6"
+    },
+    {
+        "descrizione": "POMPA TINA 22",
+        "cabina": "CAB.20",
+        "quadro": "Q.3",
+        "sezione": "S.6",
+        "utenza": "UT.4"
+    },
+    {
+        "descrizione": "POMPA TINA 23",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.33",
+        "utenza": "UT.6"
+    },
+    {
+        "descrizione": "POMPA TINA 24 PICCOLA",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.7",
+        "utenza": "UT.14"
+    },
+    {
+        "descrizione": "POMPA TINA 24 2 INV VICINO PORTA",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.2",
+        "utenza": "UT.104"
+    },
+    {
+        "descrizione": "POMPA TINA 26",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.1",
+        "utenza": "UT.22"
+    },
+    {
+        "descrizione": "POMPA TINA 31",
+        "cabina": "CAB.20",
+        "quadro": "Q.6C",
+        "sezione": "S.",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA TINA 32 2 NORD",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.6",
+        "utenza": "UT.26"
+    },
+    {
+        "descrizione": "POMPA TINA 33",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.6",
+        "utenza": "UT.46"
+    },
+    {
+        "descrizione": "POMPA 3 TINA 44",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.9",
+        "utenza": "UT.18"
+    },
+    {
+        "descrizione": "POMPA TINA 48",
+        "cabina": "CAB.20",
+        "quadro": "Q.6A",
+        "sezione": "S.2",
+        "utenza": "UT.56"
+    },
+    {
+        "descrizione": "POMPA TINA 49",
+        "cabina": "CAB.20",
+        "quadro": "Q.6A",
+        "sezione": "S.1",
+        "utenza": "UT.36"
+    },
+    {
+        "descrizione": "POMPA TINA 50 GROSSA",
+        "cabina": "CAB.20",
+        "quadro": "Q.6C",
+        "sezione": "S.",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA TINA 50 PICCOLA FOGLIACCI QUADRO ABB",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.5",
+        "utenza": "UT.56"
+    },
+    {
+        "descrizione": "POMPA TINA 65",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.3",
+        "utenza": "UT.8"
+    },
+    {
+        "descrizione": "POMPA ACQUA DA TINA 72 ALIMENTO TINA 21 TINA 55",
+        "cabina": "CAB.20",
+        "quadro": "Q.B",
+        "sezione": "S.3",
+        "utenza": "UT.14"
+    },
+    {
+        "descrizione": "POMPA TINA 73 ALIMENTAZIONE INVERTER COMER QUADRO ACCANTO A Q.A",
+        "cabina": "CAB.20",
+        "quadro": "Q.B",
+        "sezione": "S.2",
+        "utenza": "UT.16"
+    },
+    {
+        "descrizione": "POMPA TINELLO 74",
+        "cabina": "CAB.20",
+        "quadro": "Q.A",
+        "sezione": "S.1",
+        "utenza": "UT.22"
+    },
+    {
+        "descrizione": "POMPA TINA 75",
+        "cabina": "CAB.20",
+        "quadro": "Q.3B",
+        "sezione": "S.4",
+        "utenza": "UT.8"
+    },
+    {
+        "descrizione": "POMPA TINA 76",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.9",
+        "utenza": "UT.21"
+    },
+    {
+        "descrizione": "POMPA 1 TINA 77 DILUIZIONE ACQUA T6 E T9 RETRO DA TINA 77",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.8",
+        "utenza": "UT.4"
+    },
+    {
+        "descrizione": "POMPA 2 TINA 77",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.4",
+        "utenza": "UT.20"
+    },
+    {
+        "descrizione": "POMPA TINA 78",
+        "cabina": "CAB.20",
+        "quadro": "Q.3B",
+        "sezione": "S.6",
+        "utenza": "UT.17"
+    },
+    {
+        "descrizione": "POMPA ALIMENTO SELECTIFIRE 2° STADIO RETRO 24PV",
+        "cabina": "CAB.20",
+        "quadro": "Q.3B",
+        "sezione": "S.2",
+        "utenza": "UT.19"
+    },
+    {
+        "descrizione": "PULPER 1",
+        "cabina": "CAB.20",
+        "quadro": "Q.3",
+        "sezione": "S.4",
+        "utenza": "UT.12"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 110V QUADRO CICLONI KRIMA",
+        "cabina": "CAB.20",
+        "quadro": "Q.3B",
+        "sezione": "S.5",
+        "utenza": "UT.24"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO CONTROLLO ENERGETICO",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.9",
+        "utenza": "UT.11"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO SPACCAROTOLI",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.10",
+        "utenza": "UT.27"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO AUTOMATISMI PULPER 2",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.9",
+        "utenza": "UT.10"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO AUTOMATISMI PULPER 3",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.4BIS",
+        "utenza": "UT.FA13"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO CONDIZIONATORE SALA PM2",
+        "cabina": "CAB.20",
+        "quadro": "Q.A",
+        "sezione": "S.5",
+        "utenza": "UT.17"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO TAGLIAFILI PULPER 1",
+        "cabina": "CAB.20",
+        "quadro": "Q.3",
+        "sezione": "S.7",
+        "utenza": "UT.6"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO OPTSCREEN T 12",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.4",
+        "utenza": "UT.22"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO AUTOMATISMI PULPER 4",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.9",
+        "utenza": "UT.2"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO COMANDI RAFFINATORI",
+        "cabina": "CAB.20",
+        "quadro": "Q.3",
+        "sezione": "S.10",
+        "utenza": "UT.22"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO DEPURATORE ECOVAR",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.GP",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO LAVAGGIO FELTRI PM2 IN SALA PRESSE",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.12",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO INVERTER ABB PULPER 5",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.5",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO OFFICINA CARRELLI",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.9",
+        "utenza": "UT.105"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO PARETO COPERTINA",
+        "cabina": "CAB.20",
+        "quadro": "Q.3B",
+        "sezione": "S.3",
+        "utenza": "UT.25"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO PARETO RETRO",
+        "cabina": "CAB.20",
+        "quadro": "Q.3B",
+        "sezione": "S.3",
+        "utenza": "UT.25"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO SAFEMATIC",
+        "cabina": "CAB.20",
+        "quadro": "Q.3",
+        "sezione": "S.9",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO AUTOMATISMI PULPER 1",
+        "cabina": "CAB.20",
+        "quadro": "Q.3",
+        "sezione": "S.9",
+        "utenza": "UT.29"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO AUTOMATISMI PULPER 5",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.9",
+        "utenza": "UT.102"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO COLORE",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.9",
+        "utenza": "UT.106"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO COMPATTATORE",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.9",
+        "utenza": "UT.109"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO TAMBURO FOSSA PULPER",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.9",
+        "utenza": "UT.103"
+    },
+    {
+        "descrizione": "AGITATORE FOSSA RIFILI",
+        "cabina": "CAB.20",
+        "quadro": "Q.B",
+        "sezione": "S.5",
+        "utenza": "UT.17"
+    },
+    {
+        "descrizione": "AGITATORE TINA 1",
+        "cabina": "CAB.20",
+        "quadro": "Q.A",
+        "sezione": "S.6",
+        "utenza": "UT.1"
+    },
+    {
+        "descrizione": "AGITATORE TINA 2",
+        "cabina": "CAB.20",
+        "quadro": "Q.A",
+        "sezione": "S.1",
+        "utenza": "UT.9"
+    },
+    {
+        "descrizione": "AGITATORE TINA 3",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.1",
+        "utenza": "UT.29"
+    },
+    {
+        "descrizione": "AGITATORE TINA 11 (SCORTA)",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.2",
+        "utenza": "UT.7"
+    },
+    {
+        "descrizione": "AGITATORE TINA 13",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.8",
+        "utenza": "UT.14"
+    },
+    {
+        "descrizione": "AGITATORE TINA 14 (SCORTA)",
+        "cabina": "CAB.20",
+        "quadro": "Q.3B",
+        "sezione": "S.5",
+        "utenza": "UT.7"
+    },
+    {
+        "descrizione": "AGITATORE TINA 15",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.8",
+        "utenza": "UT.19"
+    },
+    {
+        "descrizione": "AGITATORE TINA 22",
+        "cabina": "CAB.20",
+        "quadro": "Q.3",
+        "sezione": "S.6",
+        "utenza": "UT.3"
+    },
+    {
+        "descrizione": "AGITATORE TINA 23",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.1",
+        "utenza": "UT.6"
+    },
+    {
+        "descrizione": "AGITATORE TINA 24",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.6",
+        "utenza": "UT.23"
+    },
+    {
+        "descrizione": "AGITATORE TINA 25",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.6",
+        "utenza": "UT.24"
+    },
+    {
+        "descrizione": "AGITATORE TINA 26",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.4",
+        "utenza": "UT.37"
+    },
+    {
+        "descrizione": "AGITATORE TINA 31",
+        "cabina": "CAB.20",
+        "quadro": "Q.3",
+        "sezione": "S.7",
+        "utenza": "UT.5"
+    },
+    {
+        "descrizione": "AGITATORE TINA 32",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.6",
+        "utenza": "UT.25"
+    },
+    {
+        "descrizione": "AGITATORE TINA 33 INV A MURO",
+        "cabina": "CAB.20",
+        "quadro": "Q.3",
+        "sezione": "S.7",
+        "utenza": "UT.7"
+    },
+    {
+        "descrizione": "AGITATORE TINA 34",
+        "cabina": "CAB.20",
+        "quadro": "Q.3",
+        "sezione": "S.7",
+        "utenza": "UT.8"
+    },
+    {
+        "descrizione": "AGITATORE TINA 48 PRIMARIA",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.4",
+        "utenza": "UT.35"
+    },
+    {
+        "descrizione": "AGITATORE TINA 49 SECONDARIA",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.4",
+        "utenza": "UT.37"
+    },
+    {
+        "descrizione": "AGITATORE TINELLO 50 FOGLIACCI",
+        "cabina": "CAB.20",
+        "quadro": "Q.B",
+        "sezione": "S.3",
+        "utenza": "UT.4"
+    },
+    {
+        "descrizione": "AGITATORE TINA 74",
+        "cabina": "CAB.20",
+        "quadro": "Q.A",
+        "sezione": "S.2",
+        "utenza": "UT.25"
+    },
+    {
+        "descrizione": "AGITATORE TINA 75",
+        "cabina": "CAB.20",
+        "quadro": "Q.3B",
+        "sezione": "S.4",
+        "utenza": "UT.2"
+    },
+    {
+        "descrizione": "AGITATORE TINA 76",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.10",
+        "utenza": "UT.17"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE RECUPERO ACQUA PIAZZALE MACERO",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.9",
+        "utenza": "UT.34"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO TAGLIAFILI PULPER 5",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.9",
+        "utenza": "UT.101"
+    },
+    {
+        "descrizione": "CARROPONTE KRIMA",
+        "cabina": "CAB.20",
+        "quadro": "Q.3",
+        "sezione": "S.10",
+        "utenza": "UT.25"
+    },
+    {
+        "descrizione": "ASPIRATORE 1",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.11",
+        "utenza": "UT.71"
+    },
+    {
+        "descrizione": "ASPIRATORE 2",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.11",
+        "utenza": "UT.72"
+    },
+    {
+        "descrizione": "ASPIRATORE 3",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.11",
+        "utenza": "UT.73"
+    },
+    {
+        "descrizione": "ASPIRATORE 4",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.11",
+        "utenza": "UT.74"
+    },
+    {
+        "descrizione": "ASPIRATORE 5",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.11",
+        "utenza": "UT.75"
+    },
+    {
+        "descrizione": "ASPIRATORE 6",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.11",
+        "utenza": "UT.76"
+    },
+    {
+        "descrizione": "ASPIRATORE 7",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.11",
+        "utenza": "UT.77"
+    },
+    {
+        "descrizione": "ASPIRATORE 8",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.11",
+        "utenza": "UT.78"
+    },
+    {
+        "descrizione": "CARROPONTE RAFFINAZIONE PM2 LATO KRIMA",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.8",
+        "utenza": "UT.24"
+    },
+    {
+        "descrizione": "CARROPONTE SPACCAROTOLI",
+        "cabina": "CAB.20",
+        "quadro": "Q.3",
+        "sezione": "S.8",
+        "utenza": "UT.15"
+    },
+    {
+        "descrizione": "COCLEA ADDENSATRICE 1 TINA 22",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.10",
+        "utenza": "UT.3"
+    },
+    {
+        "descrizione": "COCLEA ADDENSATRICE 2 TINA 22",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.10",
+        "utenza": "UT.4"
+    },
+    {
+        "descrizione": "COCLEA ADDENSATRICE 3",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.10",
+        "utenza": "UT.18"
+    },
+    {
+        "descrizione": "COCLEA ADDENSATRICE 4",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.9",
+        "utenza": "UT.19"
+    },
+    {
+        "descrizione": "COCLEA ADDENSATRICE 5",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.9",
+        "utenza": "UT.20"
+    },
+    {
+        "descrizione": "COCLEA ADDENSATRICE 6",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.9",
+        "utenza": "UT.21"
+    },
+    {
+        "descrizione": "COCLEA ADDENSATRICE 7",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.10",
+        "utenza": "UT.13"
+    },
+    {
+        "descrizione": "COCLEA ADDENSATRICE 8",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.10",
+        "utenza": "UT.14"
+    },
+    {
+        "descrizione": "COCLEA POLISTIROLO",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.8",
+        "utenza": "UT.33"
+    },
+    {
+        "descrizione": "COCLEA SCARTI MAULE ALIMENTAZIONE COMPATTATORE",
+        "cabina": "",
+        "quadro": "",
+        "sezione": "",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ECOREJECT",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.8",
+        "utenza": "UT.13"
+    },
+    {
+        "descrizione": "COCLEA SABBIERE",
+        "cabina": "CAB.20",
+        "quadro": "Q.3B",
+        "sezione": "S.5",
+        "utenza": "UT.13"
+    },
+    {
+        "descrizione": "CONDIZIONATORE CABINA 20",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.5",
+        "utenza": "UT.3"
+    },
+    {
+        "descrizione": "FIBERIZER PULPER 1",
+        "cabina": "CAB.20",
+        "quadro": "Q.3",
+        "sezione": "S.1",
+        "utenza": "UT.17"
+    },
+    {
+        "descrizione": "FIBERIZER PULPER 2",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.1",
+        "utenza": "UT.5"
+    },
+    {
+        "descrizione": "FIBERIZER PULPER 4",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.3",
+        "utenza": "UT.7"
+    },
+    {
+        "descrizione": "1º STADIO LINEA 1 FIBERSORTER",
+        "cabina": "CAB.20",
+        "quadro": "Q.A",
+        "sezione": "S.4",
+        "utenza": "UT.7"
+    },
+    {
+        "descrizione": "1º STADIO LINEA 2 FIBERSORTER",
+        "cabina": "CAB.20",
+        "quadro": "Q.A",
+        "sezione": "S.4",
+        "utenza": "UT.14"
+    },
+    {
+        "descrizione": "1º STADIO LINEA 3 FIBERSORTER",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.4",
+        "utenza": "UT.28"
+    },
+    {
+        "descrizione": "2º STADIO LINEA 1 FIBERSORTER",
+        "cabina": "CAB.20",
+        "quadro": "Q.A",
+        "sezione": "S.3",
+        "utenza": "UT.5"
+    },
+    {
+        "descrizione": "2° STADIO LINEA 2 FIBERSORTER",
+        "cabina": "CAB.20",
+        "quadro": "Q.A",
+        "sezione": "S.3",
+        "utenza": "UT.12"
+    },
+    {
+        "descrizione": "2° STADIO LINEA 3 FIBERSORTER",
+        "cabina": "CAB.20",
+        "quadro": "Q.A",
+        "sezione": "S.5",
+        "utenza": "UT.19"
+    },
+    {
+        "descrizione": "SELECTIFIRE IG 12 (ESTERNO VICINO TINA FOGLIACCI)",
+        "cabina": "CAB.20",
+        "quadro": "Q.6D",
+        "sezione": "S.2",
+        "utenza": "UT.U2"
+    },
+    {
+        "descrizione": "JUNKSCREEN",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.4",
+        "utenza": "UT.4"
+    },
+    {
+        "descrizione": "MELIO SCREEN",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.4",
+        "utenza": "UT.5"
+    },
+    {
+        "descrizione": "NASTRINO 1",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.7",
+        "utenza": "UT.41"
+    },
+    {
+        "descrizione": "NASTRINO 2",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.7",
+        "utenza": "UT.42"
+    },
+    {
+        "descrizione": "NASTRINO 3",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.7",
+        "utenza": "UT.43"
+    },
+    {
+        "descrizione": "NASTRO PULPER 1",
+        "cabina": "CAB.20",
+        "quadro": "Q.3",
+        "sezione": "S.9",
+        "utenza": "UT.26"
+    },
+    {
+        "descrizione": "NASTRO PULPER 2",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.10",
+        "utenza": "UT.17"
+    },
+    {
+        "descrizione": "NASTRO PULPER 3",
+        "cabina": "CAB.20",
+        "quadro": "Q.3",
+        "sezione": "S.10",
+        "utenza": "UT.13"
+    },
+    {
+        "descrizione": "NASTRO PULPER 4",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.8",
+        "utenza": "UT.27"
+    },
+    {
+        "descrizione": "NASTRO PULPER 5",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.7",
+        "utenza": "UT.13"
+    },
+    {
+        "descrizione": "NASTRO TAMBURO FOSSA PULPER",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.8",
+        "utenza": "UT.22"
+    },
+    {
+        "descrizione": "TAMBURO ASSORTITORE PULPER 1",
+        "cabina": "CAB.20",
+        "quadro": "Q.3",
+        "sezione": "S.9",
+        "utenza": "UT.9"
+    },
+    {
+        "descrizione": "V 11 ESTRATTORE ARIA PARTE UMIDA",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.10",
+        "utenza": "UT.63"
+    },
+    {
+        "descrizione": "V 12 ESTRATTORE ARIA PARTE UMIDA",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.10",
+        "utenza": "UT.64"
+    },
+    {
+        "descrizione": "V 13 ESTRATTORE ARIA PARTE UMIDA",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.10",
+        "utenza": "UT.65"
+    },
+    {
+        "descrizione": "V 14 ESTRATTORE ARIA PARTE UMIDA",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.10",
+        "utenza": "UT.66"
+    },
+    {
+        "descrizione": "V 19 ESTRAZIONE 1 LATO OPERATORE",
+        "cabina": "CAB.20",
+        "quadro": "Q.COND",
+        "sezione": "S.4",
+        "utenza": "UT.12"
+    },
+    {
+        "descrizione": "V 20 ESTRAZIONE 2 LATO OPERATORE",
+        "cabina": "CAB.20",
+        "quadro": "Q.COND",
+        "sezione": "S.4",
+        "utenza": "UT.13"
+    },
+    {
+        "descrizione": "V 21 IMMISSIONE 1 LATO OPERATORE",
+        "cabina": "CAB.20",
+        "quadro": "Q.COND",
+        "sezione": "S.1",
+        "utenza": "UT.4"
+    },
+    {
+        "descrizione": "V 22 IMMISSIONE 2 LATO OPERATORE",
+        "cabina": "CAB.20",
+        "quadro": "Q.COND",
+        "sezione": "S.1",
+        "utenza": "UT.5"
+    },
+    {
+        "descrizione": "V 23 IMMISSIONE 3 LATO OPERATORE",
+        "cabina": "CAB.20",
+        "quadro": "Q.COND",
+        "sezione": "S.2",
+        "utenza": "UT.6"
+    },
+    {
+        "descrizione": "V 24 IMMISSIONE 4 LATO OPERATORE",
+        "cabina": "CAB.20",
+        "quadro": "Q.COND",
+        "sezione": "S.2",
+        "utenza": "UT.7"
+    },
+    {
+        "descrizione": "V 26 ESTRAZIONE STEAM BOX CASSA VAPORE",
+        "cabina": "CAB.20",
+        "quadro": "Q.COND",
+        "sezione": "S.3",
+        "utenza": "UT.10"
+    },
+    {
+        "descrizione": "V 25 ESTRAZIONE 1 LATO COMANDO",
+        "cabina": "CAB.20",
+        "quadro": "Q.COND",
+        "sezione": "S.3",
+        "utenza": "UT.8"
+    },
+    {
+        "descrizione": "V 27 ESTRAZIONE 2 LATO COMANDO",
+        "cabina": "CAB.20",
+        "quadro": "Q.COND",
+        "sezione": "S.3",
+        "utenza": "UT.9"
+    },
+    {
+        "descrizione": "POMPA 2 RILANCIO V1",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.1",
+        "utenza": "UT.32"
+    },
+    {
+        "descrizione": "V 232 VENTILATORE 2 ASPIRAZIONE NEBBIE PARTE UMIDA",
+        "cabina": "CAB.20",
+        "quadro": "Q.6A",
+        "sezione": "S.1",
+        "utenza": "UT.U3"
+    },
+    {
+        "descrizione": "VENTILATORE CABINA TRASFORMATORI",
+        "cabina": "CAB.20",
+        "quadro": "Q.3",
+        "sezione": "S.10",
+        "utenza": "UT.24"
+    },
+    {
+        "descrizione": "VENTILATORE 2 BASSO VUOTO",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.1",
+        "utenza": "UT.33"
+    },
+    {
+        "descrizione": "VENTILATORE 3 BASSO VUOTO",
+        "cabina": "CAB.20",
+        "quadro": "Q.B",
+        "sezione": "S.3",
+        "utenza": "UT.6"
+    },
+    {
+        "descrizione": "VENTILATORE 4 BASSO VUOTO",
+        "cabina": "CAB.20",
+        "quadro": "Q.B",
+        "sezione": "S.3",
+        "utenza": "UT.8"
+    },
+    {
+        "descrizione": "VENTILATORE RAFFREDDAMENTO OLIO RIDUTTORE PULPER 5",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.8",
+        "utenza": "UT.10"
+    },
+    {
+        "descrizione": "VENTILATORE RAFFREDDAMENTO OLIO RIDUTTORE PULPER 4",
+        "cabina": "CAB.20",
+        "quadro": "Q.3B",
+        "sezione": "S.2",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA RILANCIO V1 POMPA H2O ACQUA PM2",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.6",
+        "utenza": "UT.47"
+    },
+    {
+        "descrizione": "446T ASPIRATORE FUMI",
+        "cabina": "CAB.20",
+        "quadro": "Q.A",
+        "sezione": "S.3",
+        "utenza": "UT.11"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE EV POMPA TINA 2",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.8",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE CASSETTA MISURE QUADRO 2",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.9",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE CASSETTA MISURE QUADRO ECOVAR",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.9",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE FT FLOTTATI ECOVAR",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.7",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE MOTORE CONSISTENZA C.A.P.",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.11",
+        "utenza": "UT.30"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO ABB AGITATORE VASCA RIFILI",
+        "cabina": "CAB.20",
+        "quadro": "Q.B",
+        "sezione": "S.5",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO ABB POMPA TINA 2",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.8",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO ABB POMPA TINA 24 GRANDE",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.5",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO ASHLAND BROMURO D AMMONIO",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.8",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO ASHLAND PREPARAZIONE POLIMERO PM1",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.8",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO ASHLAND PREPARAZIONE POLIMERO PM2",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.8",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO CONSENSI P.T. 48 49 51 52 PER ASHLAND",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.12",
+        "utenza": "UT.80"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO PARETO RETRO 2",
+        "cabina": "CAB.20",
+        "quadro": "Q.3B",
+        "sezione": "S.4",
+        "utenza": "UT.26"
+    },
+    {
+        "descrizione": "003T POMPA RAFFREDDAMENTO OLIO CENTRALINA",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.12",
+        "utenza": "UT.25"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE AUSILIARI TRASFORMATORE QUADRO 6",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.12",
+        "utenza": ""
+    },
+    {
+        "descrizione": "CONSENSI DA POMPA TINA 48 E TINA 49",
+        "cabina": "CAB.20",
+        "quadro": "Q.6A",
+        "sezione": "S.2",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ESTRATTORE ARIA 9",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.10",
+        "utenza": "UT.61"
+    },
+    {
+        "descrizione": "LAVAGGIO ROLL FORMER",
+        "cabina": "CAB.20",
+        "quadro": "Q.FOMAT",
+        "sezione": "S.",
+        "utenza": "UT.UNITA 1"
+    },
+    {
+        "descrizione": "LAVAGGIO GAP FORMER",
+        "cabina": "CAB.20",
+        "quadro": "Q.FOMAT",
+        "sezione": "S.",
+        "utenza": "UT.UNITA 2"
+    },
+    {
+        "descrizione": "LAVAGGIO ACCOPPIATORE",
+        "cabina": "CAB.20",
+        "quadro": "Q.FOMAT",
+        "sezione": "S.",
+        "utenza": "UT.UNITA 3"
+    },
+    {
+        "descrizione": "LAVAGGIO TELA INFERIORE",
+        "cabina": "CAB.20",
+        "quadro": "Q.FOMAT",
+        "sezione": "S.",
+        "utenza": "UT.UNITA 4"
+    },
+    {
+        "descrizione": "OSCILLATORE TAMBURO ASSORTITORE PULPER 2",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.9",
+        "utenza": "UT.9"
+    },
+    {
+        "descrizione": "OSCILLATORE TAMBURO ASSORTITORE PULPER 4",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.9",
+        "utenza": "UT.12"
+    },
+    {
+        "descrizione": "OSCILLATORE TAMBURO ASSORTITORE PULPER 5",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.7",
+        "utenza": "UT.14"
+    },
+    {
+        "descrizione": "POMPA RECUPERO ALTO VUOTO TELINO COPERTINA",
+        "cabina": "CAB.20",
+        "quadro": "Q.A",
+        "sezione": "S.",
+        "utenza": "UT.18"
+    },
+    {
+        "descrizione": "POMPA RILANCIO ACQUA DI RAFFREDDAMENTO RILANCIO V1",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.6",
+        "utenza": "UT.47"
+    },
+    {
+        "descrizione": "POMPA ROBUSCHI",
+        "cabina": "CAB.20",
+        "quadro": "Q.6D",
+        "sezione": "S.1",
+        "utenza": "UT.U1"
+    },
+    {
+        "descrizione": "POMPA TINA 2 QUADRO INVERTER ABB MURO",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.8",
+        "utenza": ""
+    },
+    {
+        "descrizione": "PULPER 2",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.6",
+        "utenza": "UT.19"
+    },
+    {
+        "descrizione": "PULPER 4",
+        "cabina": "CAB.20",
+        "quadro": "Q.3B",
+        "sezione": "S.1",
+        "utenza": "UT.1"
+    },
+    {
+        "descrizione": "PULPER 5 INVERTER ABB",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.01",
+        "utenza": ""
+    },
+    {
+        "descrizione": "REJECTPUMP",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.6",
+        "utenza": "UT.6"
+    },
+    {
+        "descrizione": "REJECTSORTER LINEA 1",
+        "cabina": "CAB.20",
+        "quadro": "Q.A",
+        "sezione": "S.6",
+        "utenza": "UT.6"
+    },
+    {
+        "descrizione": "REJECTSORTER LINEA 2",
+        "cabina": "CAB.20",
+        "quadro": "Q.A",
+        "sezione": "S.6",
+        "utenza": "UT.13"
+    },
+    {
+        "descrizione": "REJECTSORTER LINEA 3",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.2",
+        "utenza": "UT.11"
+    },
+    {
+        "descrizione": "SELECTIFIRE 12 PV SCARTI COPERTINA 2",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.2",
+        "utenza": "UT.51"
+    },
+    {
+        "descrizione": "SELECTIFIRE 24 PV 2° STADIO RETRO",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.5",
+        "utenza": "UT.10"
+    },
+    {
+        "descrizione": "SELECTIFIRE 30 PV 1 COPERTINA",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.1",
+        "utenza": "UT.9"
+    },
+    {
+        "descrizione": "SELECTIFIRE 36 PV 1 RETRO",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.3",
+        "utenza": "UT.7"
+    },
+    {
+        "descrizione": "SELECTIFIRE 36 PV 2 RETRO",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.3",
+        "utenza": "UT.8"
+    },
+    {
+        "descrizione": "T6 C2 DEFIBRATOR T6.2 COPERTINA",
+        "cabina": "CAB.20",
+        "quadro": "Q.3B",
+        "sezione": "S.3",
+        "utenza": "UT.4"
+    },
+    {
+        "descrizione": "T6 C3 DEFIBRATOR T6.3 COPERTINA",
+        "cabina": "CAB.20",
+        "quadro": "Q.A",
+        "sezione": "S.1",
+        "utenza": "UT.20"
+    },
+    {
+        "descrizione": "T6 R2 DEFIBRATOR T6.2 RETRO",
+        "cabina": "CAB.20",
+        "quadro": "Q.B",
+        "sezione": "S.1",
+        "utenza": "UT.9"
+    },
+    {
+        "descrizione": "T6 R3 DEFIBRATOR T6.3 RETRO",
+        "cabina": "CAB.20",
+        "quadro": "Q.B",
+        "sezione": "S.1",
+        "utenza": "UT.18"
+    },
+    {
+        "descrizione": "T9 C DEFIBRATOR T9 COPERTINA",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.5",
+        "utenza": "UT.1"
+    },
+    {
+        "descrizione": "T9 R DEFIBRATOR T9 RETRO",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.4",
+        "utenza": "UT.1"
+    },
+    {
+        "descrizione": "TAMBURINO INVERTER ABB FIANCO QUADRO 01",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.9",
+        "utenza": "UT.16"
+    },
+    {
+        "descrizione": "TAMBURO ASSORTITORE PULPER 2",
+        "cabina": "CAB.20",
+        "quadro": "Q.1",
+        "sezione": "S.9",
+        "utenza": "UT.8"
+    },
+    {
+        "descrizione": "TAMBURO ASSORTITORE PULPER 4",
+        "cabina": "CAB.20",
+        "quadro": "Q.2",
+        "sezione": "S.5",
+        "utenza": "UT.8"
+    },
+    {
+        "descrizione": "TAMBURO ASSORTITORE PULPER 5",
+        "cabina": "CAB.20",
+        "quadro": "Q.01",
+        "sezione": "S.9",
+        "utenza": "UT.9"
+    },
+    {
+        "descrizione": "TRASFORMATORE 380V 110V PER AUSILIARI QUADRO 3B",
+        "cabina": "CAB.20",
+        "quadro": "Q.3B",
+        "sezione": "S.2",
+        "utenza": ""
+    },
+    {
+        "descrizione": "TRASMETTITORE CONSISTENZA TINA 31",
+        "cabina": "CAB.20",
+        "quadro": "Q.6C",
+        "sezione": "S.1",
+        "utenza": "UT.1,1"
+    },
+    {
+        "descrizione": "USCITA 110V TRAFO AUSILIARI QUADRO 6",
+        "cabina": "CAB.20",
+        "quadro": "Q.6",
+        "sezione": "S.12",
+        "utenza": ""
+    },
+    {
+        "descrizione": "VENTILATORE OLIO POMPA ALTA PRESSIONE 3 GROSSA",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.8",
+        "utenza": "UT.52"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V FUMANE",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.10",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V PRESA PER POMPA SENTINA TURBAIR",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.10",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V QUADRO ELETTRICO PMT 003H1",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.10",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V QUADRO ELETTRICO PMT 003H2",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.10",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V QUADRO ELETTRICO PMT 003H3",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.10",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE CASSETTA ACCELLEROMETRI",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.8",
+        "utenza": "UT.15"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE CONDIZIONATORE SALA YOKO",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.10",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO LAVAGGI FOMAT CABINA 21",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.10",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO UPS 30KVA CABINA 21",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.3",
+        "utenza": "UT.11"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE RISCALDAMENTO C.A.P. CASSA AFFLUSSO PRIMARIA",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.6",
+        "utenza": "UT.LP50"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE RISCALDAMENTO C.A.S. CASSA AFFLUSSO SECONDARIA",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.6",
+        "utenza": "UT.LP51"
+    },
+    {
+        "descrizione": "MOVIMENTO CILINDRO ACCOPPIATORE 102EMB810",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.8",
+        "utenza": "UT.37/1"
+    },
+    {
+        "descrizione": "MOVIMENTO CILINDRO GUIDATELA 002EMB801 EM1",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.10",
+        "utenza": "UT.8/1"
+    },
+    {
+        "descrizione": "MOVIMENTO COLLETTORE CASSA AFFLUSSO INFERIORE 006EM3010",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.8",
+        "utenza": "UT.32"
+    },
+    {
+        "descrizione": "MOVIMENTO CAPOTELA GAP FORMER LAYER INFERIORE 021EM3010",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.8",
+        "utenza": "UT.31/1"
+    },
+    {
+        "descrizione": "MOVIMENTO ORIZZONTALE LABBRO CASSA AFFLUSSO INFERIORE RETRO ARRETRAMENTO LABBRO 006EM3210",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.8",
+        "utenza": "UT.33"
+    },
+    {
+        "descrizione": "MOVIMENTO VERTICALE LABBRO CASSA AFFLUSSO INFERIORE RETRO APERTURA LABBRO 006VM3110",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.7",
+        "utenza": "UT.40"
+    },
+    {
+        "descrizione": "POMPA 1 RAFFREDDAMENTO JUMBO",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.10",
+        "utenza": "UT.21"
+    },
+    {
+        "descrizione": "POMPA 2 DILUIZIONE DA TINA 55",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.7",
+        "utenza": "UT.7"
+    },
+    {
+        "descrizione": "POMPA 2 RAFFREDDAMENTO JUMBO",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.10",
+        "utenza": "UT.23"
+    },
+    {
+        "descrizione": "POMPA A VUOTO 0",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.6",
+        "utenza": "UT.6"
+    },
+    {
+        "descrizione": "POMPA A VUOTO 1",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.1",
+        "utenza": "UT.2"
+    },
+    {
+        "descrizione": "POMPA A VUOTO 2",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.2",
+        "utenza": "UT.3"
+    },
+    {
+        "descrizione": "POMPA A VUOTO 3",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.3",
+        "utenza": "UT.4"
+    },
+    {
+        "descrizione": "POMPA A VUOTO 4",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.4",
+        "utenza": "UT.5"
+    },
+    {
+        "descrizione": "POMPA ALTA PRESSIONE EST",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.9",
+        "utenza": "UT.12"
+    },
+    {
+        "descrizione": "POMPA ALTA PRESSIONE OVEST",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.9",
+        "utenza": "UT.18"
+    },
+    {
+        "descrizione": "POMPA ALTA PRESSIONE 3 GROSSA",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.5",
+        "utenza": "UT.1"
+    },
+    {
+        "descrizione": "POMPA RECUPERO ACQUA ALTO VUOTO TELA RETRO INTEGRAZIONE PRIME ACQUE INVERTER",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.9",
+        "utenza": "UT.14"
+    },
+    {
+        "descrizione": "RESISTENZA ANTICONDENSA MOTORE ACCOPPIATORE TELINO",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.8",
+        "utenza": "UT.37/2"
+    },
+    {
+        "descrizione": "RESISTENZA ANTICONDENSA MOTORE TENDITORE 1 TELA INFERIORE",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.8",
+        "utenza": "UT.34/2"
+    },
+    {
+        "descrizione": "RESISTENZA ANTICONDENSA MOTORE TENDITORE 2 TELA INFERIORE",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.8",
+        "utenza": "UT.35/2"
+    },
+    {
+        "descrizione": "RESISTENZA ANTICONDENSA MOVIMENTO CILINDRO GUIDATELA",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.10",
+        "utenza": "UT.8/2"
+    },
+    {
+        "descrizione": "RESISTENZA ANTICONDENSA MOTORE MOVIMENTO COMANDO TELA",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.8",
+        "utenza": "UT.31/2"
+    },
+    {
+        "descrizione": "RESISTENZA ANTICONDENSA MOTORE TENDITORE TELETTA GAP FORMER",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.8",
+        "utenza": "UT.36/2"
+    },
+    {
+        "descrizione": "TENDITORE 1 PRIMA SECCHERIA (AV/IND) 104EM1701",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.8",
+        "utenza": "UT.38"
+    },
+    {
+        "descrizione": "TENDITORE 1 TELA INFERIORE (AV/IND) 002EM1720",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.8",
+        "utenza": "UT.34/1"
+    },
+    {
+        "descrizione": "TENDITORE 2 TELA INFERIORE (AV/IND) 002EM1730",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.8",
+        "utenza": "UT.35/1"
+    },
+    {
+        "descrizione": "TENDITORE TELETTA GAP FORMER 021MA1701",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.8",
+        "utenza": "UT.36/1"
+    },
+    {
+        "descrizione": "V 211 VENTILATORE ARIA CALDA PLAFONE 1",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.10",
+        "utenza": "UT.9"
+    },
+    {
+        "descrizione": "V 212 VENTILATORE ARIA CALDA PLAFONE 2",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.10",
+        "utenza": "UT.10"
+    },
+    {
+        "descrizione": "VENTILATORE CABINA 12 TRAFO 8 TRAFO 8B",
+        "cabina": "CAB.21",
+        "quadro": "Q.7",
+        "sezione": "S.9",
+        "utenza": "UT.13"
+    },
+    {
+        "descrizione": "PULPER 2 (PRESSE PM2)",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.1",
+        "utenza": "UT.2"
+    },
+    {
+        "descrizione": "POMPA PULPER PRESSE INVERTER ABB",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.2",
+        "utenza": "UT.4"
+    },
+    {
+        "descrizione": "POMPA A VUOTO 5",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.3",
+        "utenza": "UT.36"
+    },
+    {
+        "descrizione": "POMPA A VUOTO 6",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.4",
+        "utenza": "UT.35"
+    },
+    {
+        "descrizione": "446T POMPA 4 RICIRCOLO E LUBRIFICAZIONE DCR",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.6",
+        "utenza": "UT.17"
+    },
+    {
+        "descrizione": "446T POMPA 5 RICIRCOLO E LUBRIFICAZIONE DCR",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.6",
+        "utenza": "UT.18"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO LAVAGGI KADANT",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.6",
+        "utenza": "UT.53"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE CONDIZIONATORE CADINA 21/A",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.6",
+        "utenza": "UT.56"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO POMPA 1 POMPA 2 LAVAGGIO FELTRI",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.6",
+        "utenza": "UT.54"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO VENTILANTI",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.6",
+        "utenza": "UT.55"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE SPRUZZI OSCILLANTI ZONA SECCHERIA",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.6",
+        "utenza": "UT.57"
+    },
+    {
+        "descrizione": "PULPER 1 (PRESSE PM2)",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.7",
+        "utenza": "UT.1"
+    },
+    {
+        "descrizione": "VENTILATORE VUOTO GAP FORMER E TELA",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.8",
+        "utenza": "UT.3"
+    },
+    {
+        "descrizione": "446T RISCALDATORE 1 CENTRALINA IDRAULICA DCR",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.9",
+        "utenza": "UT.19"
+    },
+    {
+        "descrizione": "446T RISCALDATORE 2 CENTRALINA IDRAULICA DCR",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.9",
+        "utenza": "UT.20"
+    },
+    {
+        "descrizione": "346T POMPA 1 CARICAMENTO SHOE PRESS",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.9",
+        "utenza": "UT.21"
+    },
+    {
+        "descrizione": "346T POMPA 2 CARICAMENTO SHOE PRESS",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.9",
+        "utenza": "UT.22"
+    },
+    {
+        "descrizione": "APERTURA LABBRO CASSA AFFLUSSO SUPERIORE",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.10",
+        "utenza": "UT.12"
+    },
+    {
+        "descrizione": "ARRETRAMENTO CASSA AFFLUSSO SUPERIORE",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.10",
+        "utenza": "UT.13"
+    },
+    {
+        "descrizione": "446T POMPA 1 CARICAMENTO DCR",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.10",
+        "utenza": "UT.14"
+    },
+    {
+        "descrizione": "446T POMPA 2 CARICAMENTO DCR",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.10",
+        "utenza": "UT.15"
+    },
+    {
+        "descrizione": "V 210 D3 VENTILATORE BASSO VUOTO VACUUM ROLL",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.11",
+        "utenza": "UT.39"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO TENDIFELTRI",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.11",
+        "utenza": "UT.52"
+    },
+    {
+        "descrizione": "446T POMPA 3 CARICAMENTO DCR",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.11",
+        "utenza": "UT.16"
+    },
+    {
+        "descrizione": "POMPA 1 ALIMENTAZIONE ANELLO LIQUIDO",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.12",
+        "utenza": "UT.42"
+    },
+    {
+        "descrizione": "POMPA 2 ALIMENTAZIONE ANELLO LIQUIDO",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.12",
+        "utenza": "UT.43"
+    },
+    {
+        "descrizione": "003T RESISTENZA 1 CENTRALINA OLIO MOVIMENTO PRESSE",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.12",
+        "utenza": "UT.33"
+    },
+    {
+        "descrizione": "POMPA RECUPERO ACQUA CILINDRO PICK UP PM2",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.12",
+        "utenza": "UT.49"
+    },
+    {
+        "descrizione": "POMPA RECUPERO ACQUA CILINDRO ASPIRANTE TELA PM2",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.12",
+        "utenza": "UT.48"
+    },
+    {
+        "descrizione": "MAIALINO H 18 SCREEN CONSISTENCE PROFILE",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.13",
+        "utenza": "UT.5"
+    },
+    {
+        "descrizione": "POMPA CENTR. AUX OLIO TURBINA RT 56 1 ALIMENTAZIONE DA UPS 400V",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.13",
+        "utenza": "UT.6"
+    },
+    {
+        "descrizione": "VENTILATORE DI EVACUAZIONE OLIO CENTRALINA OLIO TURBINA",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.13",
+        "utenza": "UT.7"
+    },
+    {
+        "descrizione": "RESISTENZA DI RISCALDAMENTO CENTRALINA OLIO TURBINA",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.13",
+        "utenza": "UT.8"
+    },
+    {
+        "descrizione": "POMPA 1 ESTRAZIONE TURBINA",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.13",
+        "utenza": "UT.9"
+    },
+    {
+        "descrizione": "POMPA 2 ESTRAZIONE TURBINA",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.13",
+        "utenza": "UT.10"
+    },
+    {
+        "descrizione": "MOVIMENTO COLLETTORE CASSA AFFLUSSO SUPERIORE",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.13",
+        "utenza": "UT.11"
+    },
+    {
+        "descrizione": "VENTILATORE 2 TORRE DI REFFREDDAMENTO INV. ABB",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.14",
+        "utenza": "UT.45"
+    },
+    {
+        "descrizione": "346T RISCALDATORE 1 CENTRALINA IDRAULICA SHOE PRESS",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.14",
+        "utenza": "UT.24"
+    },
+    {
+        "descrizione": "346T RISCALDATORE 2 CENTRALINA IDRAULICA SHOE PRESS",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.14",
+        "utenza": "UT.25"
+    },
+    {
+        "descrizione": "346T RISCALDATORE 3 CENTRALINA IDRAULICA SHOE PRESS",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.14",
+        "utenza": "UT.26"
+    },
+    {
+        "descrizione": "346T RISCALDATORE 4 CENTRALINA IDRAULICA SHOE PRESS",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.14",
+        "utenza": "UT.27"
+    },
+    {
+        "descrizione": "VENTILATORE 1 TORRE DI REFFREDDAMENTO INV. ABB",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.15",
+        "utenza": "UT.44"
+    },
+    {
+        "descrizione": "003T RESISTENZA 2 CENTRALINA OLIO MOVIMENTO PRESSE",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.15",
+        "utenza": "UT.34"
+    },
+    {
+        "descrizione": "003T RESISTENZA 3 CENTRALINA OLIO MOVIMENTO PRESSE",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.15",
+        "utenza": "UT.35"
+    },
+    {
+        "descrizione": "003T SCAMBIATORE 1 CENTRALINA OLIO MOVIMENTO PRESSE",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.15",
+        "utenza": "UT.31"
+    },
+    {
+        "descrizione": "003T SCAMBIATORE 2 CENTRALINA OLIO MOVIMENTO PRESSE",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.15",
+        "utenza": "UT.32"
+    },
+    {
+        "descrizione": "VENTILATORE 3 TORRE DI REFFREDDAMENTO INV. ABB",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.16",
+        "utenza": "UT.46"
+    },
+    {
+        "descrizione": "POMPA 1 ALIMENTAZIONE TORRE DI REFFREDDAMENTO SULZER",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.16",
+        "utenza": "UT.40"
+    },
+    {
+        "descrizione": "POMPA 2 ALIMENTAZIONE TORRE DI REFFREDDAMENTO SULZER",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.16",
+        "utenza": "UT.41"
+    },
+    {
+        "descrizione": "POMPA RECUPERO ACQUA PRESSA ASPIRANTE PM2",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.16",
+        "utenza": "UT.50"
+    },
+    {
+        "descrizione": "POMPA RECUPERO ACQUA GRONDE",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.16",
+        "utenza": "UT.38"
+    },
+    {
+        "descrizione": "VENTILATORE 4 TORRE DI REFFREDDAMENTO INV. ABB",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.17",
+        "utenza": "UT.47"
+    },
+    {
+        "descrizione": "CASSA ASPIRANTE VACUUM ROLL D2",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.17",
+        "utenza": ""
+    },
+    {
+        "descrizione": "003T POMPA 1 CENTRALINA OLIO MOVIMENTO PRESSE",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.17",
+        "utenza": "UT.29"
+    },
+    {
+        "descrizione": "003T POMPA 2 CENTRALINA OLIO MOVIMENTO PRESSE",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.17",
+        "utenza": "UT.30"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 110V PORTATA DILUIZIONE SPAPPOLATORE SIZE PRESS PM2",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.12",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 110V BTG RETRO PM2",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.12",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 110V BTG COPERTINA PM2",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.12",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 110V FT SPAPPOLATORE POPE PM2",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.12",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 110V FT SPAPPOLATORE PRESSE PM2",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.12",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 110V RICICLO PROFILO 1793",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.12",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 110V RICICLO PROFILO 1794",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.12",
+        "utenza": ""
+    },
+    {
+        "descrizione": "PROTEZIONE TRAFO",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V 400V QUADRO PRODOTTI BASF",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V 400V RISCALDAMENTO C.A.P.",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V 400V RISCALDAMENTO C.A.S.",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V 400V FT CIC PRIMARIA",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V 400V FT CIC SECONDARIA",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V 400V FT NOSS RETRO",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V 400V VALVOLA GRAMMATURA FELTRO",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V 400V VALVOLA GRAMMATURA COPERTINA",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "021H1",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "346T ALIMENTAZIONE 400V Q. RISCALDAMENTO OLIO CENTRALINA",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "446T ALIMENTAZIONE 400V Q. RISCALDAMENTO OLIO CENTRALINA",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 400V VENTILATORI DRIVE ABB 3QF1",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 400V VENTILATORI DRIVE ABB 3QF2",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 400V VENTILATORI DRIVE ABB 3QF3",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 400V VENTILATORI DRIVE ABB 3QF4",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS QUADRO REMOTO MT",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS POMPA OLIO TURBINA",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS QUADRO PMT CPU PCS7 092H02",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS QUADRO PMT COMPUTER PCS7 092H1",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS REMOTAZIONE PMT CENTRALINA IDRAULICA 003H2",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS REMOTAZIONE PMT PRESSE 003H1",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "021H1",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS REMOTAZIONE PMT NUOVO 003H3",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS MONITOR OPERATORE PMT",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS WEB MX",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS BOBINA DI MINIMA QUADRO VUOTO",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS BOBINA DI MINIMA QUADRO 8 PM2",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS QUADRO YOKO REMOTIZZATO",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS YOKO CABINA 21/A",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS QUADRO UPS CABINA 12/A",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS QUADRO UPS CABINA 13/A",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA A VUOTO 4 EX PM1",
+        "cabina": "CAB.21",
+        "quadro": "Q.13",
+        "sezione": "S.1",
+        "utenza": "UT.4"
+    },
+    {
+        "descrizione": "INTERRUTTORE TURBAIR BLOWER RT56 1",
+        "cabina": "CAB.21",
+        "quadro": "Q.13",
+        "sezione": "S.2",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA A VUOTO 7",
+        "cabina": "CAB.21",
+        "quadro": "Q.13",
+        "sezione": "S.4",
+        "utenza": "UT.1"
+    },
+    {
+        "descrizione": "POMPA A VUOTO 8",
+        "cabina": "CAB.21",
+        "quadro": "Q.13",
+        "sezione": "S.5",
+        "utenza": "UT.2"
+    },
+    {
+        "descrizione": "ESSICCATORE 1 CILINDRO SUPERIORE 1",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.31"
+    },
+    {
+        "descrizione": "SETTIMA BATTERIA ESSICCATORE 47",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.32"
+    },
+    {
+        "descrizione": "OTTAVA BATTERIA SUPERIORE ESSICCATORE 53",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.33"
+    },
+    {
+        "descrizione": "NONA BATTERIA GUIDAFELTRO SUPERIORE",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.34"
+    },
+    {
+        "descrizione": "NONA BATTERIA INFERIORE ESSICCATORE 64",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.35"
+    },
+    {
+        "descrizione": "NONA BATTERIA SUPERIORE ESSICCATORE 71",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.36"
+    },
+    {
+        "descrizione": "NONA BATTERIA INFERIORE ESSICCATORE 70",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.37"
+    },
+    {
+        "descrizione": "QUARTA BATTERIA SUPERIORE ESSICCATORE 28",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.38"
+    },
+    {
+        "descrizione": "QUARTA BATTERIA SUPERIORE ESSICCATORE 32",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.39"
+    },
+    {
+        "descrizione": "QUARTA BATTERIA INFERIORE ESSICCATORE 27",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.40"
+    },
+    {
+        "descrizione": "QUARTA BATTERIA INFERIORE ESSICCATORE 31",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.41"
+    },
+    {
+        "descrizione": "QUINTA BATTERIA SUPERIORE ESSICCATORE 40",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.42"
+    },
+    {
+        "descrizione": "QUINTA BATTERIA SUPERIORE ESSICCATORE 44",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.43"
+    },
+    {
+        "descrizione": "QUINTA BATTERIA INFERIORE ESSICCATORE 39",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.44"
+    },
+    {
+        "descrizione": "QUINTA BATTERIA INFERIORE ESSICCATORE 43",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.45"
+    },
+    {
+        "descrizione": "SESTA BATTERIA SUPERIORE ESSICCATORE 52",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.46"
+    },
+    {
+        "descrizione": "SESTA BATTERIA SUPERIORE ESSICCATORE 56",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.47"
+    },
+    {
+        "descrizione": "SESTA BATTERIA SUPERIORE GUIDAFELTRO",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.48"
+    },
+    {
+        "descrizione": "SESTA BATTERIA INFERIORE ESSICCATORE 51",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.49"
+    },
+    {
+        "descrizione": "SESTA BATTERIA INFERIORE ESSICCATORE 52",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.50"
+    },
+    {
+        "descrizione": "LISCIA SUPERIORE",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.51"
+    },
+    {
+        "descrizione": "LISCIA INFERIORE",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.52"
+    },
+    {
+        "descrizione": "TAMBURO ARROTOLATORE",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.53"
+    },
+    {
+        "descrizione": "LANCIO BOBINA",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.54"
+    },
+    {
+        "descrizione": "PRIMA BATTERIA CILINDRO ASPIRANTE FELTRO",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.61"
+    },
+    {
+        "descrizione": "PRIMA BATTERIA GUIDAFELTRO COMANDATO",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.62"
+    },
+    {
+        "descrizione": "SECONDA BATTERIA CILINDRO ASPIRANTE FELTRO",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.63"
+    },
+    {
+        "descrizione": "SECONDA BATTERIA GUIDAFELTRO COMANDATO",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.64"
+    },
+    {
+        "descrizione": "TERZA BATTERIA CILINDRO ASPIRANTE FELTRO",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.65"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS QUADRO PMT COMPUTER PCS7 092H1",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS REMOTAZIONE PMT CENTRALINA IDRAULICA 003H2",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS REMOTAZIONE PMT PRESSE 003H1",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "021H1",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS REMOTAZIONE PMT NUOVO 003H3",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS MONITOR OPERATORE PMT",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS WEB MX",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS BOBINA DI MINIMA QUADRO VUOTO",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS BOBINA DI MINIMA QUADRO 8 PM2",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS QUADRO YOKO REMOTIZZATO",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS YOKO CABINA 21/A",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS QUADRO UPS CABINA 12/A",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE UPS QUADRO UPS CABINA 13/A",
+        "cabina": "CAB.21",
+        "quadro": "Q.8",
+        "sezione": "S.18",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA A VUOTO 4 EX PM1",
+        "cabina": "CAB.21",
+        "quadro": "Q.13",
+        "sezione": "S.1",
+        "utenza": "UT.4"
+    },
+    {
+        "descrizione": "INTERRUTTORE TURBAIR BLOWER RT56 1",
+        "cabina": "CAB.21",
+        "quadro": "Q.13",
+        "sezione": "S.2",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA A VUOTO 7",
+        "cabina": "CAB.21",
+        "quadro": "Q.13",
+        "sezione": "S.4",
+        "utenza": "UT.1"
+    },
+    {
+        "descrizione": "POMPA A VUOTO 8",
+        "cabina": "CAB.21",
+        "quadro": "Q.13",
+        "sezione": "S.5",
+        "utenza": "UT.2"
+    },
+    {
+        "descrizione": "ESSICCATORE 1 CILINDRO SUPERIORE 1",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.31"
+    },
+    {
+        "descrizione": "SETTIMA BATTERIA ESSICCATORE 47",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.32"
+    },
+    {
+        "descrizione": "OTTAVA BATTERIA SUPERIORE ESSICCATORE 53",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.33"
+    },
+    {
+        "descrizione": "NONA BATTERIA GUIDAFELTRO SUPERIORE",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.34"
+    },
+    {
+        "descrizione": "NONA BATTERIA INFERIORE ESSICCATORE 64",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.35"
+    },
+    {
+        "descrizione": "NONA BATTERIA SUPERIORE ESSICCATORE 71",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.36"
+    },
+    {
+        "descrizione": "NONA BATTERIA INFERIORE ESSICCATORE 70",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.37"
+    },
+    {
+        "descrizione": "QUARTA BATTERIA SUPERIORE ESSICCATORE 28",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.38"
+    },
+    {
+        "descrizione": "QUARTA BATTERIA SUPERIORE ESSICCATORE 32",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.39"
+    },
+    {
+        "descrizione": "QUARTA BATTERIA INFERIORE ESSICCATORE 27",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.40"
+    },
+    {
+        "descrizione": "QUARTA BATTERIA INFERIORE ESSICCATORE 31",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.41"
+    },
+    {
+        "descrizione": "QUINTA BATTERIA SUPERIORE ESSICCATORE 40",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.42"
+    },
+    {
+        "descrizione": "QUINTA BATTERIA SUPERIORE ESSICCATORE 44",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.43"
+    },
+    {
+        "descrizione": "QUINTA BATTERIA INFERIORE ESSICCATORE 39",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.44"
+    },
+    {
+        "descrizione": "QUINTA BATTERIA INFERIORE ESSICCATORE 43",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.45"
+    },
+    {
+        "descrizione": "SESTA BATTERIA SUPERIORE ESSICCATORE 52",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.46"
+    },
+    {
+        "descrizione": "SESTA BATTERIA SUPERIORE ESSICCATORE 56",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.47"
+    },
+    {
+        "descrizione": "SESTA BATTERIA SUPERIORE GUIDAFELTRO",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.48"
+    },
+    {
+        "descrizione": "SESTA BATTERIA INFERIORE ESSICCATORE 51",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.49"
+    },
+    {
+        "descrizione": "SESTA BATTERIA INFERIORE ESSICCATORE 52",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.50"
+    },
+    {
+        "descrizione": "LISCIA SUPERIORE",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.51"
+    },
+    {
+        "descrizione": "LISCIA INFERIORE",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.52"
+    },
+    {
+        "descrizione": "TAMBURO ARROTOLATORE",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.53"
+    },
+    {
+        "descrizione": "LANCIO BOBINA",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.3",
+        "sezione": "S.",
+        "utenza": "UT.54"
+    },
+    {
+        "descrizione": "PRIMA BATTERIA CILINDRO ASPIRANTE FELTRO",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.61"
+    },
+    {
+        "descrizione": "PRIMA BATTERIA GUIDAFELTRO COMANDATO",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.62"
+    },
+    {
+        "descrizione": "SECONDA BATTERIA CILINDRO ASPIRANTE FELTRO",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.63"
+    },
+    {
+        "descrizione": "SECONDA BATTERIA GUIDAFELTRO COMANDATO",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.64"
+    },
+    {
+        "descrizione": "TERZA BATTERIA CILINDRO ASPIRANTE FELTRO",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.65"
+    },
+    {
+        "descrizione": "TERZA BATTERIA GUIDAFELTRO COMANDATO",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.66"
+    },
+    {
+        "descrizione": "FILM SIZE PRESS GUIDACARTA 1",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.67"
+    },
+    {
+        "descrizione": "FILM SIZE PRESS GUIDACARTA 2",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.68"
+    },
+    {
+        "descrizione": "FILM SIZE PRESS GUIDACARTA 3",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.69"
+    },
+    {
+        "descrizione": "FILM SIZE PRESS CILINDRO APPLICATORE MOBILE",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.70"
+    },
+    {
+        "descrizione": "FILM SIZE PRESS CILINDRO APPLICATORE FISSO",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.71"
+    },
+    {
+        "descrizione": "FILM SIZE PRESS STENDICARTA 1",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.72"
+    },
+    {
+        "descrizione": "FILM SIZE PRESS COMANDO CORDE",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.73"
+    },
+    {
+        "descrizione": "SETTIMA BATTERIA GUIDAFELTRO ASPIRANTE COMANDATO",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.74"
+    },
+    {
+        "descrizione": "SETTIMA BATTERIA GUIDAFELTRO COMANDATO",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.75"
+    },
+    {
+        "descrizione": "OTTAVA BATTERIA SUPERIORE ESSICCATORE 59",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.76"
+    },
+    {
+        "descrizione": "OTTAVA BATTERIA INFERIORE ESSICCATORE 58",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.77"
+    },
+    {
+        "descrizione": "NONA BATTERIA SUPERIORE ESSICCATORE 65",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.78"
+    },
+    {
+        "descrizione": "GUIDACARTA INGRESSO CALANDRA",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.79"
+    },
+    {
+        "descrizione": "PRIMO GUIDACARTA INGRESSO ARROTOLATORE",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.80"
+    },
+    {
+        "descrizione": "SECONDO GUIDACARTA INGRESSO ARROTOLATORE",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.81"
+    },
+    {
+        "descrizione": "STENDICARTA INGRESSO ARROTOLATORE",
+        "cabina": "CAB.21/A",
+        "quadro": "Q. L.4",
+        "sezione": "S.",
+        "utenza": "UT.82"
+    },
+    {
+        "descrizione": "POSIZIONAMENTO TAGLIO CODA POST SECCHERIA",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 OVEST",
+        "sezione": "S.1",
+        "utenza": "UT.17"
+    },
+    {
+        "descrizione": "MOVIMENTO CILINDRO GUIDACARTA INGRESSO SIZE PRESS",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 OVEST",
+        "sezione": "S.1",
+        "utenza": "UT.18"
+    },
+    {
+        "descrizione": "VENTILATORE PONTE DI MISURA POPE PM2",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 OVEST",
+        "sezione": "S.1",
+        "utenza": "UT.28"
+    },
+    {
+        "descrizione": "VENTILATORE PONTE DI MISURA SIZE PRESS PM2",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 OVEST",
+        "sezione": "S.1",
+        "utenza": "UT.29"
+    },
+    {
+        "descrizione": "POSIZIONAMENTO TAGLIO CODA PRE SECCHERIA",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 OVEST",
+        "sezione": "S.2",
+        "utenza": "UT.16"
+    },
+    {
+        "descrizione": "TENDITORE SETTIMA BATTERIA",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 OVEST",
+        "sezione": "S.2",
+        "utenza": "UT.11"
+    },
+    {
+        "descrizione": "TENDITORE OTTAVA BATTERIA SUPERIORE",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 OVEST",
+        "sezione": "S.2",
+        "utenza": "UT.12"
+    },
+    {
+        "descrizione": "TENDITORE OTTAVA BATTERIA INFERIORE",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 OVEST",
+        "sezione": "S.2",
+        "utenza": "UT.13"
+    },
+    {
+        "descrizione": "TENDITORE NONA BATTERIA SUPERIORE",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 OVEST",
+        "sezione": "S.2",
+        "utenza": "UT.14"
+    },
+    {
+        "descrizione": "TENDITORE NONA BATTERIA INFERIORE",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 OVEST",
+        "sezione": "S.2",
+        "utenza": "UT.15"
+    },
+    {
+        "descrizione": "VENTILATORE AIR TURN PMT",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 OVEST",
+        "sezione": "S.3",
+        "utenza": "UT.34"
+    },
+    {
+        "descrizione": "060T POMPA 2 CENTRALE MOVIMENTAZIONE POPE SIZE",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 OVEST",
+        "sezione": "S.3",
+        "utenza": "UT.20"
+    },
+    {
+        "descrizione": "060T POMPA 3 CENTRALE MOVIMENTAZIONE POPE SIZE",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 OVEST",
+        "sezione": "S.3",
+        "utenza": "UT.21"
+    },
+    {
+        "descrizione": "RISCALDAMENTO LINEA TESTE",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 OVEST",
+        "sezione": "S.3",
+        "utenza": "UT.23"
+    },
+    {
+        "descrizione": "RISCALDAMENTO LINEA CILINDRI",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 OVEST",
+        "sezione": "S.3",
+        "utenza": "UT.24"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO SALA CUCINA AMIDO",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 OVEST",
+        "sezione": "S.4",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE COMPRESSORE ARIA 6",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 OVEST",
+        "sezione": "S.4",
+        "utenza": ""
+    },
+    {
+        "descrizione": "060T POMPA 1 CENTRALE MOVIMENTAZIONE POPE SIZE",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 OVEST",
+        "sezione": "S.4",
+        "utenza": "UT.19"
+    },
+    {
+        "descrizione": "060T POMPA 4 CENTRALE MOVIMENTAZIONE POPE SIZE",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 OVEST",
+        "sezione": "S.4",
+        "utenza": "UT.22"
+    },
+    {
+        "descrizione": "V 222 ESTRAZIONE WEB STABILIZER",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 OVEST",
+        "sezione": "S.4",
+        "utenza": "UT.33"
+    },
+    {
+        "descrizione": "V 221 POCKET VENTILATION 5",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 OVEST",
+        "sezione": "S.5",
+        "utenza": "UT.32"
+    },
+    {
+        "descrizione": "V 218 POCKET VENTILATION 4",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 OVEST",
+        "sezione": "S.6",
+        "utenza": "UT.31"
+    },
+    {
+        "descrizione": "V 214 ESTRAZIONE WEB STABILIZER",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 OVEST",
+        "sezione": "S.7",
+        "utenza": "UT.30"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO 9/A MCC2",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 EST",
+        "sezione": "S.8",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE COLONNA MODULARE ESTERNA",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 EST",
+        "sezione": "S.9",
+        "utenza": "UT.35"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO CARBONATO DI CALCIO",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 EST",
+        "sezione": "S.9",
+        "utenza": "UT.18"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE CENTRALINO TERMOSTAZIONE FRIGO 1",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 EST",
+        "sezione": "S.9",
+        "utenza": "UT.25"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE CONDIZIONATORE CABINA 22",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 EST",
+        "sezione": "S.9",
+        "utenza": "UT.9"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO GESTIONE AMIDO SIZE",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 EST",
+        "sezione": "S.9",
+        "utenza": "UT.10"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO CONDENSE PM2",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 EST",
+        "sezione": "S.9",
+        "utenza": "UT.7"
+    },
+    {
+        "descrizione": "SPAPPOLATORE SIZE PRESS PM2",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 EST",
+        "sezione": "S.10",
+        "utenza": "UT.4"
+    },
+    {
+        "descrizione": "V 215 POKET VENTILATION 1",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 EST",
+        "sezione": "S.11",
+        "utenza": "UT.2"
+    },
+    {
+        "descrizione": "V 217 POKET VENTILATION 3",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 EST",
+        "sezione": "S.12",
+        "utenza": "UT.3"
+    },
+    {
+        "descrizione": "POMPA DA SPAPPOLATORE SIZE PRESS PM2",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 EST",
+        "sezione": "S.13",
+        "utenza": "UT.5"
+    },
+    {
+        "descrizione": "V 206 A",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 BIS",
+        "sezione": "S.1",
+        "utenza": "UT.7"
+    },
+    {
+        "descrizione": "V 206 B",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 BIS",
+        "sezione": "S.1",
+        "utenza": "UT.8"
+    },
+    {
+        "descrizione": "V 203 B",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 BIS",
+        "sezione": "S.1",
+        "utenza": "UT.6"
+    },
+    {
+        "descrizione": "V 201",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 BIS",
+        "sezione": "S.2",
+        "utenza": "UT.1"
+    },
+    {
+        "descrizione": "V 202",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 BIS",
+        "sezione": "S.2",
+        "utenza": "UT.2"
+    },
+    {
+        "descrizione": "V 203 A",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 BIS",
+        "sezione": "S.2",
+        "utenza": "UT.3"
+    },
+    {
+        "descrizione": "V 204",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 BIS",
+        "sezione": "S.2",
+        "utenza": "UT.4"
+    },
+    {
+        "descrizione": "V 205",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 BIS",
+        "sezione": "S.2",
+        "utenza": "UT.5"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO SONDEL RAFFREDDAMENTO CONDENSE",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 BIS",
+        "sezione": "S.2",
+        "utenza": ""
+    },
+    {
+        "descrizione": "CONDIZIONATORE GRUPPO FRIGO CABINA 21",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 BIS",
+        "sezione": "S.3",
+        "utenza": "UT.14"
+    },
+    {
+        "descrizione": "V 216 VENTILATORE PRESS RUN",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 BIS",
+        "sezione": "S.3",
+        "utenza": "UT.12"
+    },
+    {
+        "descrizione": "V 28 VENTILATORE ESTRAZIONE SIZE PRESS",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 BIS",
+        "sezione": "S.4",
+        "utenza": "UT.98"
+    },
+    {
+        "descrizione": "V 213 VENTILATORE BLOW BOX",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 BIS",
+        "sezione": "S.4",
+        "utenza": "UT.11"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 110V ANTINCENDIO CAPPA PM2",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 BIS",
+        "sezione": "S.5",
+        "utenza": ""
+    },
+    {
+        "descrizione": "PORTA PRIMA SECCHERIA",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 BIS",
+        "sezione": "S.6",
+        "utenza": "UT.90"
+    },
+    {
+        "descrizione": "PORTA SECONDA SECCHERIA",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 BIS",
+        "sezione": "S.6",
+        "utenza": "UT.91"
+    },
+    {
+        "descrizione": "PORTA TERZA SECCHERIA",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 BIS",
+        "sezione": "S.6",
+        "utenza": "UT.92"
+    },
+    {
+        "descrizione": "PORTA QUARTA SECCHERIA",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 BIS",
+        "sezione": "S.6",
+        "utenza": "UT.93"
+    },
+    {
+        "descrizione": "PORTA QUINTA SECCHERIA",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 BIS",
+        "sezione": "S.6",
+        "utenza": "UT.94"
+    },
+    {
+        "descrizione": "PORTA SETTIMA SECCHERIA",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 BIS",
+        "sezione": "S.6",
+        "utenza": "UT.95"
+    },
+    {
+        "descrizione": "PORTA OTTAVA SECCHERIA",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 BIS",
+        "sezione": "S.6",
+        "utenza": "UT.96"
+    },
+    {
+        "descrizione": "PORTA NONA SECCHERIA",
+        "cabina": "CAB.22",
+        "quadro": "Q.9 BIS",
+        "sezione": "S.6",
+        "utenza": "UT.97"
+    },
+    {
+        "descrizione": "POMPA 1 ESTRAZIONE A CENTRALE",
+        "cabina": "CAB.22",
+        "quadro": "Q.04",
+        "sezione": "S.2",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA SEPARATORE S3",
+        "cabina": "CAB.22",
+        "quadro": "Q.04",
+        "sezione": "S.2",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA 2 ESTRAZIONE A CENTRALE",
+        "cabina": "CAB.22",
+        "quadro": "Q.04",
+        "sezione": "S.3",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA SEPARATORE S4",
+        "cabina": "CAB.22",
+        "quadro": "Q.04",
+        "sezione": "S.3",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA SEPARATORE S1",
+        "cabina": "CAB.22",
+        "quadro": "Q.04",
+        "sezione": "S.4",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA SEPARATORE S2",
+        "cabina": "CAB.22",
+        "quadro": "Q.04",
+        "sezione": "S.4",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA 1 SEPARATORE S7",
+        "cabina": "CAB.22",
+        "quadro": "Q.04",
+        "sezione": "S.5",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA 2 SEPARATORE S8",
+        "cabina": "CAB.22",
+        "quadro": "Q.04",
+        "sezione": "S.5",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA SEPARATORE S10",
+        "cabina": "CAB.22",
+        "quadro": "Q.04",
+        "sezione": "S.5",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA 1 SEPARATORE S6",
+        "cabina": "CAB.22",
+        "quadro": "Q.04",
+        "sezione": "S.6",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA 2 SEPARATORE S6",
+        "cabina": "CAB.22",
+        "quadro": "Q.04",
+        "sezione": "S.6",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA SEPARATORE S2",
+        "cabina": "CAB.22",
+        "quadro": "Q.04",
+        "sezione": "S.6",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA 1 SEPARATORE S9",
+        "cabina": "CAB.22",
+        "quadro": "Q.04",
+        "sezione": "S.7",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA 2 SEPARATORE S9",
+        "cabina": "CAB.22",
+        "quadro": "Q.04",
+        "sezione": "S.7",
+        "utenza": ""
+    },
+    {
+        "descrizione": "POMPA SEPARATORE S5",
+        "cabina": "CAB.22",
+        "quadro": "Q.04",
+        "sezione": "S.7",
+        "utenza": ""
+    },
+    {
+        "descrizione": "LIGHTING",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.1",
+        "utenza": "UT.QF1"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V CENTRALINA ANTISCIVOLO HERCULES LISCIA",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.1",
+        "utenza": "UT.QF2"
+    },
+    {
+        "descrizione": "VENTILATORE MISUREX",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.1",
+        "utenza": "UT.QF3"
+    },
+    {
+        "descrizione": "VENTILATORE QUADRI RIBOBINA",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.1",
+        "utenza": "UT.QF4"
+    },
+    {
+        "descrizione": "SCORTA",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.1",
+        "utenza": "UT.QF5"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE STAMPA ETICHETTE MAG. LATO PM2",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.1",
+        "utenza": "UT.QF6"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE PODIO BOBINOVIA",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.1",
+        "utenza": "UT.QF7"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE WIND POSIT",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.1",
+        "utenza": "UT.QF8"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE PORTONE PM2",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.1",
+        "utenza": "UT.QF9"
+    },
+    {
+        "descrizione": "SCORTA",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.1",
+        "utenza": "UT.QF10"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 380V SEGA ANIME",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.1",
+        "utenza": "UT.QF11"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO FINESTRE MAG. LATO PM2",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.1",
+        "utenza": "UT.QF12"
+    },
+    {
+        "descrizione": "SCORTA",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.1",
+        "utenza": "UT.QF13"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE IBS",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.1",
+        "utenza": "UT.QF14"
+    },
+    {
+        "descrizione": "SCORTA",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.1",
+        "utenza": "UT.QF15"
+    },
+    {
+        "descrizione": "PLC CABINET SUPPLY",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.1",
+        "utenza": "UT.QF16"
+    },
+    {
+        "descrizione": "END GLUENING 1 INCOLLATORE ANIME",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.1",
+        "utenza": "UT.QF17"
+    },
+    {
+        "descrizione": "END GLUENING 2 INCOLLATORE ANIME",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.1",
+        "utenza": "UT.QF18"
+    },
+    {
+        "descrizione": "CORE GLUENING INCOLLATORE ANIME",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.1",
+        "utenza": "UT.QF19"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE TELECAMERA MAG. LATO PM2",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.1",
+        "utenza": "UT.QF20"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE 220V QUADRO TELECAMERE POPE",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.1",
+        "utenza": "UT.QF21"
+    },
+    {
+        "descrizione": "VENTILATORE RAFFREDDAMENTO CENTRALINA OLIO RIBOBINA PM2",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.1",
+        "utenza": "UT.QF22"
+    },
+    {
+        "descrizione": "ALBERO RINVIO COPERTURA PULPER RIBO PM2",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.2",
+        "utenza": "UT.33"
+    },
+    {
+        "descrizione": "MOTORE 3 COPERTURA PULPER RIBO INGRESSO L.C. PM2",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.3",
+        "utenza": "UT.31"
+    },
+    {
+        "descrizione": "GRUPPO FRIGO CABINA 23 MT/BT",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.3",
+        "utenza": "UT.160A"
+    },
+    {
+        "descrizione": "HYDRAULIC UNIT FILTERING PUMP",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.3",
+        "utenza": "UT.8"
+    },
+    {
+        "descrizione": "PUMP 1 HYDRAULIC UNIT",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.3",
+        "utenza": "UT.5"
+    },
+    {
+        "descrizione": "PUMP 2 HYDRAULIC UNIT",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.3",
+        "utenza": "UT.6"
+    },
+    {
+        "descrizione": "MOTOR 1 WEB THREADING",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.3",
+        "utenza": "UT.2"
+    },
+    {
+        "descrizione": "MOTORE 4 COPERTURA PULPER RIBO INGRESSO L.S. PM2",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.4",
+        "utenza": "UT.32"
+    },
+    {
+        "descrizione": "MOTORE 1 COPERTURA PULPER RIBO USCITA L.C. PM2",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.5",
+        "utenza": "UT.29"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO DISCENSORE PM2",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.5",
+        "utenza": "UT.2"
+    },
+    {
+        "descrizione": "MOTOR 1 WEB SEPARATOR",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.5",
+        "utenza": "UT.1"
+    },
+    {
+        "descrizione": "AIR COOLER HYDRAULIC UNIT",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.5",
+        "utenza": "UT.9"
+    },
+    {
+        "descrizione": "LUBRIFICATION PUMP FOR UNWIND GEAR BOX",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.5",
+        "utenza": "UT.4"
+    },
+    {
+        "descrizione": "ASPIRAZIONE NEBBIE PULPER RIBO PM2",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.6",
+        "utenza": "UT.27"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE COMPRESSORE ARIA 5",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.6",
+        "utenza": ""
+    },
+    {
+        "descrizione": "VACUUM BLOWER FOR REAR DRUM SUCTION",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.6",
+        "utenza": "UT.3"
+    },
+    {
+        "descrizione": "POMPA PULPER RIBO PM2",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.7",
+        "utenza": "UT.26"
+    },
+    {
+        "descrizione": "MOTORE 2 COPERTURA PULPER RIBO USCITA L.S. PM2",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.8",
+        "utenza": "UT.30"
+    },
+    {
+        "descrizione": "ALIMENTAZIONE COMPRESSORE ARIA 7",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.8",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE MCC LISCIA PM2",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.8",
+        "utenza": ""
+    },
+    {
+        "descrizione": "ALIMENTAZIONE QUADRO 9B",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.8",
+        "utenza": ""
+    },
+    {
+        "descrizione": "AGITATORE 1 PULPER POPE PM2",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.10",
+        "utenza": "UT.35"
+    },
+    {
+        "descrizione": "AGITATORE 2 PULPER POPE PM2",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.11",
+        "utenza": "UT.36"
+    },
+    {
+        "descrizione": "PULPER RIBO PM2",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.12",
+        "utenza": "UT.25"
+    },
+    {
+        "descrizione": "POMPA PULPER POPE PM2",
+        "cabina": "CAB.23",
+        "quadro": "Q.17",
+        "sezione": "S.13",
+        "utenza": "UT.37"
+    }
+]
