@@ -1,34 +1,50 @@
-// ===============================
-//  CARICAMENTO DATABASE UTENZE
-// ===============================
 let utenze = [];
 
 async function caricaDati() {
   try {
+    console.log("DEBUG — Iniciando carga del archivo utenze.json...");
+
     const risposta = await fetch("utenze.json");
-    utenze = await risposta.json();
-    console.log("Utenze caricate:", utenze.length);
+    console.log("DEBUG — Respuesta fetch:", risposta);
+
+    let data = await risposta.json();
+    console.log("DEBUG — JSON crudo cargado. Cantidad de objetos:", data.length);
+
+    // Normalización de claves
+    utenze = data.map(u => ({
+      cabina: "CAB." + u["Cabina"],
+      quadro: u["Quadro"],
+      utenza: u["Utenza"],
+      sezione: u["Scomp."],
+      descrizione: u["Descrizione"],
+      tag: u["TAG"],
+      sede_tecnica_ut: u["Sede Tecnica UT"],
+      sezionatore_bm: u["Sezionatore B.M."],
+      sede_tecnica_bm: u["Sede Tecnica BM"],
+      itlu: u["ITLU"]
+    }));
+
+    console.log("DEBUG — Utenze normalizzate:", utenze.length);
+
+    console.log("DEBUG — Primeras 5 utenze normalizzate:");
+    console.log(utenze.slice(0, 5));
+
+    console.log("DEBUG — Cabine uniche trovate:");
+    console.log([...new Set(utenze.map(u => u.cabina))].slice(0, 20));
+
   } catch (err) {
-    console.error("Errore nel caricamento del JSON:", err);
+    console.error("🔥 ERROR — No se pudo cargar el JSON:", err);
   }
 }
 
 caricaDati();
 
-
-// ===============================
-//  RIFERIMENTI DOM
-// ===============================
 const inputDescrizione = document.getElementById("descrizione");
 const selectCabina = document.getElementById("cabina");
 const btnCerca = document.getElementById("btnCerca");
 const btnPulisci = document.getElementById("btnPulisci");
 const listaRisultati = document.getElementById("listaRisultati");
 
-
-// ===============================
-//  FUNZIONE: CREA UNA CARTA UTENZA
-// ===============================
 function creaCartaUtenza(u, index) {
   const carta = document.createElement("div");
   carta.className = "carta-utenza";
@@ -58,10 +74,6 @@ function creaCartaUtenza(u, index) {
   return carta;
 }
 
-
-// ===============================
-//  FUNZIONE: MOSTRA RISULTATI
-// ===============================
 function renderRisultati(dati) {
   listaRisultati.innerHTML = "";
 
@@ -75,22 +87,16 @@ function renderRisultati(dati) {
   });
 }
 
-
-// ===============================
-//  FUNZIONE: APRI/CHIUDI DETTAGLI
-// ===============================
 function toggleDettagli(id) {
   const box = document.getElementById("extra-" + id);
   box.style.display = box.style.display === "block" ? "none" : "block";
 }
 
-
-// ===============================
-//  FILTRO PRINCIPALE
-// ===============================
 function filtraUtenze() {
   const testo = inputDescrizione.value.trim().toLowerCase();
   const cabina = selectCabina.value;
+
+  console.log("DEBUG — Filtro aplicado:", { testo, cabina });
 
   const filtrate = utenze.filter(u => {
     const matchCabina = cabina === "" || u.cabina === cabina;
@@ -101,25 +107,19 @@ function filtraUtenze() {
     return matchCabina && matchTesto;
   });
 
+  console.log("DEBUG — Resultados filtrados:", filtrate.length);
+
   renderRisultati(filtrate);
 }
 
-
-// ===============================
-//  EVENTI
-// ===============================
-
-// Ricerca istantanea
 inputDescrizione.addEventListener("input", filtraUtenze);
 selectCabina.addEventListener("change", filtraUtenze);
 
-// Bottone "Cerca"
 btnCerca.addEventListener("click", (e) => {
   e.preventDefault();
   filtraUtenze();
 });
 
-// Bottone "Pulisci"
 btnPulisci.addEventListener("click", (e) => {
   e.preventDefault();
   inputDescrizione.value = "";
@@ -129,10 +129,6 @@ btnPulisci.addEventListener("click", (e) => {
   `;
 });
 
-
-// ===============================
-//  STATO INIZIALE
-// ===============================
 listaRisultati.innerHTML = `
   <p class="vuoto">Nessuna ricerca effettuata. Inserisci dei criteri e premi "Cerca utenze".</p>
 `;
