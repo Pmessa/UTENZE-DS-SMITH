@@ -17,11 +17,13 @@
   <main>
     <section class="filtro">
 
+      <!-- 🔍 DESCRIZIONE -->
       <div class="campo">
         <label for="descrizione">Descrizione utenza</label>
         <input type="text" id="descrizione" placeholder="Es. POMPA, TERMOCONVETTORE, CARROPONTE...">
       </div>
 
+      <!-- 🏭 CABINA -->
       <div class="campo">
         <label for="cabina">Cabina (CAB.)</label>
         <select id="cabina">
@@ -42,6 +44,16 @@
           <option value="CAB.23">CAB.23</option>
         </select>
       </div>
+
+      <!-- 🆕 🔶 QUADRO -->
+      <div class="campo">
+        <label for="quadro">Quadro</label>
+        <select id="quadro">
+          <option value="">Tutti</option>
+          <!-- El JS llenará automáticamente esta lista -->
+        </select>
+      </div>
+
     </section>
 
     <section id="risultati">

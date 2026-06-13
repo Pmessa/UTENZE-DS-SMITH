@@ -5,9 +5,8 @@ async function caricaDati() {
     console.log("DEBUG — Iniciando carga del archivo utenze.json...");
 
     const risposta = await fetch("utenze.json");
-    console.log("DEBUG — Respuesta fetch:", risposta);
-
     let data = await risposta.json();
+
     console.log("DEBUG — JSON crudo cargado. Cantidad de objetos:", data.length);
 
     // Normalización de claves
@@ -26,11 +25,8 @@ async function caricaDati() {
 
     console.log("DEBUG — Utenze normalizzate:", utenze.length);
 
-    console.log("DEBUG — Primeras 5 utenze normalizzate:");
-    console.log(utenze.slice(0, 5));
-
-    console.log("DEBUG — Cabine uniche trovate:");
-    console.log([...new Set(utenze.map(u => u.cabina))].slice(0, 20));
+    // 🔶 Llenar automáticamente la lista de QUADRI
+    popolaListaQuadri();
 
   } catch (err) {
     console.error("🔥 ERROR — No se pudo cargar el JSON:", err);
@@ -41,26 +37,46 @@ caricaDati();
 
 const inputDescrizione = document.getElementById("descrizione");
 const selectCabina = document.getElementById("cabina");
-const btnCerca = document.getElementById("btnCerca");
-const btnPulisci = document.getElementById("btnPulisci");
+const selectQuadro = document.getElementById("quadro");
 const listaRisultati = document.getElementById("listaRisultati");
 
+/* ---------------------------------------------------------
+   🔶 RELLENAR LISTA DE QUADRI AUTOMÁTICAMENTE
+--------------------------------------------------------- */
+function popolaListaQuadri() {
+  const quadriUnici = [...new Set(utenze.map(u => u.quadro))].sort();
+
+  quadriUnici.forEach(q => {
+    if (q && q.trim() !== "") {
+      const opt = document.createElement("option");
+      opt.value = q;
+      opt.textContent = q;
+      selectQuadro.appendChild(opt);
+    }
+  });
+
+  console.log("DEBUG — Quadri cargados:", quadriUnici.length);
+}
+
+/* ---------------------------------------------------------
+   🔶 CREAR TARJETA DE UTENZA (versión compacta)
+--------------------------------------------------------- */
 function creaCartaUtenza(u, index) {
   const carta = document.createElement("div");
   carta.className = "carta-utenza";
 
   carta.innerHTML = `
     <div class="carta-header">
+      <div><strong>Descrizione:</strong> ${u.descrizione}</div>
       <div><strong>Cabina:</strong> ${u.cabina}</div>
       <div><strong>Quadro:</strong> ${u.quadro}</div>
       <div><strong>Utenza:</strong> ${u.utenza}</div>
-      <div><strong>Scomparto:</strong> ${u.sezione}</div>
     </div>
 
     <div class="carta-extra" id="extra-${index}">
+      <div><strong>Scomparto:</strong> ${u.sezione}</div>
       <div><strong>TAG:</strong> ${u.tag}</div>
       <div><strong>Sede tecnica UT:</strong> ${u.sede_tecnica_ut}</div>
-      <div><strong>Descrizione:</strong> ${u.descrizione}</div>
       <div><strong>Sezionatore B.M.:</strong> ${u.sezionatore_bm}</div>
       <div><strong>Sede tecnica BM:</strong> ${u.sede_tecnica_bm}</div>
       <div><strong>ITLU:</strong> ${u.itlu}</div>
@@ -74,6 +90,9 @@ function creaCartaUtenza(u, index) {
   return carta;
 }
 
+/* ---------------------------------------------------------
+   🔶 RENDER DE RESULTADOS
+--------------------------------------------------------- */
 function renderRisultati(dati) {
   listaRisultati.innerHTML = "";
 
@@ -87,24 +106,32 @@ function renderRisultati(dati) {
   });
 }
 
+/* ---------------------------------------------------------
+   🔶 MOSTRAR / OCULTAR DETTAGLI
+--------------------------------------------------------- */
 function toggleDettagli(id) {
   const box = document.getElementById("extra-" + id);
   box.style.display = box.style.display === "block" ? "none" : "block";
 }
 
+/* ---------------------------------------------------------
+   🔶 FILTRO PRINCIPAL
+--------------------------------------------------------- */
 function filtraUtenze() {
   const testo = inputDescrizione.value.trim().toLowerCase();
   const cabina = selectCabina.value;
+  const quadro = selectQuadro.value;
 
-  console.log("DEBUG — Filtro aplicado:", { testo, cabina });
+  console.log("DEBUG — Filtro aplicado:", { testo, cabina, quadro });
 
   const filtrate = utenze.filter(u => {
     const matchCabina = cabina === "" || u.cabina === cabina;
+    const matchQuadro = quadro === "" || u.quadro === quadro;
     const matchTesto =
       testo === "" ||
       (u.descrizione && u.descrizione.toLowerCase().includes(testo));
 
-    return matchCabina && matchTesto;
+    return matchCabina && matchQuadro && matchTesto;
   });
 
   console.log("DEBUG — Resultados filtrados:", filtrate.length);
@@ -112,22 +139,12 @@ function filtraUtenze() {
   renderRisultati(filtrate);
 }
 
+/* ---------------------------------------------------------
+   🔶 EVENTOS
+--------------------------------------------------------- */
 inputDescrizione.addEventListener("input", filtraUtenze);
 selectCabina.addEventListener("change", filtraUtenze);
-
-btnCerca.addEventListener("click", (e) => {
-  e.preventDefault();
-  filtraUtenze();
-});
-
-btnPulisci.addEventListener("click", (e) => {
-  e.preventDefault();
-  inputDescrizione.value = "";
-  selectCabina.value = "";
-  listaRisultati.innerHTML = `
-    <p class="vuoto">Filtri puliti. Inserisci dei criteri e premi "Cerca utenze".</p>
-  `;
-});
+selectQuadro.addEventListener("change", filtraUtenze);
 
 listaRisultati.innerHTML = `
   <p class="vuoto">Nessuna ricerca effettuata. Inserisci dei criteri e premi "Cerca utenze".</p>
